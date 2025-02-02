@@ -20,7 +20,7 @@ export interface MealCategory {
 
 export function Store() {
   // const location = useLocation();
-  // const searchQuery = location.state?.searchQuery?.toLowerCase() || "";
+  // const searchQuery = location.state && location.state.searchQuery ? location.state.searchQuery.toLowerCase() : "";
   const [isOpen, setIsOpen] = React.useState<string>("");
   const [store, selectStore] = React.useState<string>(storeInfo[0].Name);
 
