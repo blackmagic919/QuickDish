@@ -1,9 +1,9 @@
+import React from "react"
 import { Button, Stack } from "react-bootstrap"
 import { useShoppingCart, CartItem } from "../context/ShoppingCartContext"
 import storeItems from "../data/items.json"
 import { formatCurrency } from "../utilities/formatCurrency"
 import storeInfo from "../data/storeInfo.json"
-import React from "react"
 
 type StoreInventory = {
   Name : string,
@@ -29,7 +29,7 @@ export interface IngredientProperty {
 }
 
 export function GetPrice({ Ingredient, Store, Quantity }: IngredientItem){
-  var shop = storeInfo.findLast(shop => shop.Name === Store);
+  var shop = storeInfo.find(shop => shop.Name === Store);
   if(!shop?.Inventory.some(item => item.Name == Ingredient)) console.log(Ingredient);
   var item = shop?.Inventory.find(item => item.Name == Ingredient) as StoreInventory;
   return item.Price * Quantity;
@@ -37,7 +37,7 @@ export function GetPrice({ Ingredient, Store, Quantity }: IngredientItem){
 
 export function CartItemDisplay({Ingredient, Store, Quantity, CancelItem, SetCancel} : IngredientProperty) 
 {
-  var shop = storeInfo.findLast(shop => shop.Name === Store);
+  var shop = storeInfo.find(shop => shop.Name === Store);
   var item = shop?.Inventory.find(item => item.Name == Ingredient) as StoreInventory;
   if (item == null) return null;
   const [cancelAmount, setCancelAmount] = React.useState(0);

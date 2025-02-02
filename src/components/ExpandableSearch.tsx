@@ -1,21 +1,36 @@
 import React, {useState} from "react";
 import {Search01Icon} from "hugeicons-react";
 import { Button } from "react-bootstrap"; 
+import { useNavigate } from "react-router-dom";
 import recipes from "../data/recipes.json";
 
 const ExpandableSearchBar = () => {
   const [IsExpanded, setExpand] = React.useState(false);
+  const [searchQuery, setSearchQuery] = useState("");
+  const navigate = useNavigate();
 
   const handleExpand = () => {
     setExpand(!IsExpanded);
+    if(!IsExpanded)
+    {
+      setSearchQuery("");
+    }
+  };
+
+  const handleSearchSubmit = (event) => {
+    event.preventDefault();
+    navigate("/store", { state: { searchQuery } });
   };
 
   return (
     <div className="container" style={{ display: 'flex', flexDirection: 'row-reverse', alignItems: 'center' }}>
+      <form onSubmit={handleSearchSubmit}>
       <input
         className="search-input"
         type="search"
         placeholder="Search keyword"
+        value={searchQuery}
+        onChange={(e) => setSearchQuery(e.target.value)}
         style={{
           width: IsExpanded ? '100%' : '0%',
           opacity: IsExpanded ? 1 : 0, 
@@ -32,6 +47,7 @@ const ExpandableSearchBar = () => {
           }}
         />
       </Button>
+      </form>
     </div>
   );
 };

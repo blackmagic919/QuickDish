@@ -1,5 +1,5 @@
 import * as React from 'react';
-import { Offcanvas, Stack, Row, Col, Button } from "react-bootstrap"
+import { Offcanvas, Stack, Button } from "react-bootstrap"
 import { useShoppingCart } from "../context/ShoppingCartContext"
 import { formatCurrency } from "../utilities/formatCurrency"
 import { CartItemDisplay, IngredientItem } from "./CartItemDisplay"
@@ -42,6 +42,7 @@ export function ShoppingCart({ isOpen }: ShoppingCartProps) {
     <Offcanvas show={isOpen} onHide={closeCart} placement="end">
       <Offcanvas.Header closeButton>
         <Offcanvas.Title>Cart</Offcanvas.Title>
+        <Button variant="outline-primary" className="ms-auto">Trash Icon Here</Button>
       </Offcanvas.Header>
 
       <Offcanvas.Body>

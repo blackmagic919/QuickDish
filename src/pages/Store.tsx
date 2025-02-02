@@ -1,8 +1,10 @@
 import * as React from 'react'
+import { useLocation } from 'react-router-dom';
 import { Col, Row } from "react-bootstrap"
 import { CategoryItem } from "../components/CategoryItem"
 import mealItems from "../data/meals.json"
 import storeInfo from "../data/storeInfo.json"
+import recipes from "../data/recipes.json";
 
 import Popover from '@mui/material/Popover'
 import Button from '@mui/material/Button'
@@ -17,6 +19,8 @@ export interface MealCategory {
 }
 
 export function Store() {
+  const location = useLocation();
+  const searchQuery = location.state?.searchQuery?.toLowerCase() || "";
   const [isOpen, setIsOpen] = React.useState<string>("");
   const [store, selectStore] = React.useState<string>(storeInfo[0].Name);
   const togglePopup = (name : string) => {
@@ -24,8 +28,6 @@ export function Store() {
     else setIsOpen(name);
   };
   
-  
-
   return (
       <div>
       <Stack 
