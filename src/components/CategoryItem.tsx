@@ -10,13 +10,13 @@ type CategoryItemProps = {
 }
 
 const iconMapping: Record<string, JSX.Element> = {
-  "Pizza": <Pizza01Icon size={128} color="#fedebe" weight="bold" />, 
-  "Burger": <Hamburger01Icon size={128} color="#fedebe" weight="bold" />, 
-  "Pasta": <SpaghettiIcon size={128} color="#fedebe" weight="bold" />, 
-  "Taco": <Taco01Icon size={128} color="#fedebe" weight="bold" />, 
-  "Curry": <BbqGrillIcon size={128} color="#fedebe" weight="bold" />,
-  "Ramen": <NoodlesIcon size={128} color="#fedebe" weight="bold" />,
-  "Sushi": <Sushi01Icon size={128} color="#fedebe" weight="bold" /> 
+  "Pizza": <Pizza01Icon size={128} color="#fedebe" style={{fontWeight: "bold"}} />, 
+  "Burger": <Hamburger01Icon size={128} color="#fedebe" style={{fontWeight: "bold"}} />, 
+  "Pasta": <SpaghettiIcon size={128} color="#fedebe" style={{fontWeight: "bold"}} />, 
+  "Taco": <Taco01Icon size={128} color="#fedebe" style={{fontWeight: "bold"}} />, 
+  "Curry": <BbqGrillIcon size={128} color="#fedebe" style={{fontWeight: "bold"}} />,
+  "Ramen": <NoodlesIcon size={128} color="#fedebe" style={{fontWeight: "bold"}} />,
+  "Sushi": <Sushi01Icon size={128} color="#fedebe" style={{fontWeight: "bold"}} /> 
 };
 
 export function CategoryItem({ name, imgUrl, OnClick }: CategoryItemProps) {

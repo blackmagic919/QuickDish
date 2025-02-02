@@ -1,21 +1,14 @@
 import React, {useState} from "react";
 import {Search01Icon} from "hugeicons-react";
 import { Button } from "react-bootstrap"; 
+import recipes from "../data/recipes.json";
 
 const ExpandableSearchBar = () => {
   const [IsExpanded, setExpand] = React.useState(false);
-  const [query, setQuery] = useState("");
 
   const handleExpand = () => {
     setExpand(!IsExpanded);
   };
-
-  // const handleSearch = (event) => {
-  //   const value = event.target.value;
-  //   setQuery(value);
-  //   onSearch(value);
-  // };
-
 
   return (
     <div className="container" style={{ display: 'flex', flexDirection: 'row-reverse', alignItems: 'center' }}>
