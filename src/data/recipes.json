@@ -1,0 +1,247 @@
+[
+   {
+        "Id" : 1,
+        "Servings": 6,
+        "Name" : "Cheese Pizza",
+        "Category" : "Pizza",
+        "Ingredients": ["Dough", "Tomato Sauce", "Mozzarella Cheese", "Olive Oil"]
+   },
+   {
+        "Id" : 2,
+        "Servings": 6,
+        "Name" : "Pepperoni Pizza",
+        "Category" : "Pizza",
+        "Ingredients": ["Dough", "Tomato Sauce", "Mozzarella Cheese", "Olive Oil"]
+   },
+   {
+        "Id" : 3,
+        "Servings": 6,
+        "Name": "Margherita Pizza",
+        "Category" : "Pizza",
+        "Ingredients": ["Dough", "Tomato Sauce", "Mozzarella Cheese", "Basil", "Olive Oil"]
+   },
+   {
+        "Id" : 4,
+        "Servings": 6,
+        "Name": "BBQ Chicken Pizza",
+        "Category" : "Pizza",
+        "Ingredients": ["Dough", "BBQ Sauce", "Mozzarella Cheese", "Chicken", "Red Onion"]
+   },
+   {
+        "Id" : 5,
+        "Servings": 6,
+        "Name": "White Pizza",
+        "Category" : "Pizza",
+        "Ingredients": ["Dough", "Ricotta Cheese", "Mozzarella Cheese", "Parmesan Cheese", "Garlic"]
+   },
+   {
+        "Id" : 6,
+        "Servings": 5,
+        "Name": "Cheese Burger",
+        "Category" : "Burger",
+        "Ingredients": ["Beef Patty", "Burger Bun", "Cheddar Cheese", "Lettuce", "Tomato", "Onion"]
+    },
+    {
+        "Id" : 7,
+        "Servings": 5,
+        "Name": "Mushroom Swiss Burger",
+        "Category" : "Burger",
+        "Ingredients": ["Beef Patty", "Burger Bun", "Swiss Cheese", "Mushrooms", "Butter"]
+    },
+    {
+        "Id" : 8,
+        "Servings": 5,
+        "Name": "Bacon Burger",
+        "Category" : "Burger",
+        "Ingredients": ["Beef Patty", "Burger Bun", "Bacon", "Cheddar Cheese", "BBQ Sauce"]
+    },
+    {
+        "Id" : 9,
+        "Servings": 5,
+        "Name": "BBQ Burger",
+        "Category" : "Burger",
+        "Ingredients": ["Beef Patty", "Burger Bun", "BBQ Sauce", "Onion Rings", "Pickles"]
+    },
+    {
+        "Id" : 10,
+        "Servings": 5,
+        "Name": "Veggie Burger",
+        "Category" : "Burger",
+        "Ingredients": ["Veggie Patty", "Burger Bun", "Lettuce", "Tomato", "Pickles"]
+    },
+    {
+        "Id" : 11,
+        "Servings": 3,
+        "Name": "Spaghetti Carbonara",
+        "Category" : "Pasta",
+        "Ingredients": ["Spaghetti", "Eggs", "Parmesan Cheese", "Pancetta", "Black Pepper"]
+    },
+    {
+        "Id" : 12,
+        "Servings": 3,
+        "Name": "Fettuccine Alfredo",
+        "Category" : "Pasta",
+        "Ingredients": ["Fettuccine", "Heavy Cream", "Parmesan Cheese", "Butter", "Garlic"]
+    },
+    {
+        "Id" : 13,
+        "Servings": 3,
+        "Name": "Lasagna",
+        "Category" : "Pasta",
+        "Ingredients": ["Lasagna Sheets", "Ricotta Cheese", "Tomato Sauce", "Ground Beef", "Mozzarella Cheese"]
+    },
+    {
+        "Id" : 14,
+        "Servings": 3,
+        "Name": "Cheese Ravioli",
+        "Category" : "Pasta",
+        "Ingredients": ["Pasta Dough", "Ricotta Cheese", "Parmesan Cheese", "Tomato Sauce"]
+    },
+    {
+        "Id" : 15,
+        "Servings": 3,
+        "Name": "Penne alla Vodka",
+        "Category": "Pasta",
+        "Ingredients": ["Penne", "Tomato Sauce", "Vodka", "Heavy Cream", "Parmesan Cheese"]
+    },
+    {
+        "Id" : 16,
+        "Servings": 10,
+        "Name": "Carne Asada",
+        "Category" : "Taco",
+        "Ingredients": ["Corn Tortilla", "Grilled Steak", "Cilantro", "Onion", "Lime"]
+    },
+    {
+        "Id" : 17,
+        "Servings": 10,
+        "Name": "Al Pastor",
+        "Category": "Taco",
+        "Ingredients": ["Corn Tortilla", "Marinated Pork", "Pineapple", "Onion", "Cilantro"]
+    },
+    {
+        "Id" : 18,
+        "Servings": 10,
+        "Name": "Fish",
+        "Category" : "Taco",
+        "Ingredients": ["Corn Tortilla", "Fried Fish", "Cabbage Slaw", "Lime", "White Sauce"]
+    },
+    {
+        "Id" : 19,
+        "Servings": 10,
+        "Name": "Barbacoa",
+        "Category": "Taco",
+        "Ingredients": ["Corn Tortilla", "Shredded Beef", "Cilantro", "Onion", "Salsa"]
+    },
+    {
+        "Id" : 20,
+        "Servings": 10,
+        "Name": "Carnitas",
+        "Category": "Taco",
+        "Ingredients": ["Corn Tortilla", "Slow-Cooked Pork", "Onion", "Cilantro", "Salsa"]
+    },
+    {
+        "Id" : 21,
+        "Servings": 5,
+        "Name": "Butter Chicken",
+        "Category": "Curry",
+        "Ingredients": ["Chicken", "Tomato Sauce", "Heavy Cream", "Butter", "Garam Masala"]
+    },
+    {
+        "Id" : 22,
+        "Servings": 5,
+        "Name": "Thai Green",
+        "Category": "Curry",
+        "Ingredients": ["Coconut Milk", "Green Curry Paste", "Chicken", "Basil", "Lemongrass"]
+    },
+    {
+        "Id" : 23,
+        "Servings": 5,
+        "Name": "Japanese",
+        "Category": "Curry",
+        "Ingredients": ["Curry Roux", "Potatoes", "Carrot", "Onion", "Shredded Beef"]
+    },
+    {
+        "Id" : 24,
+        "Servings": 5,
+        "Name": "Vindaloo",
+        "Category" : "Curry",
+        "Ingredients": ["Marinated Pork", "Vinegar", "Garlic", "Chili Powder", "Cumin"]
+    },
+    {
+        "Id" : 25,
+        "Servings": 5,
+        "Name": "Chicken Tikka Masala",
+        "Category" : "Curry",
+        "Ingredients": ["Chicken", "Tomato Sauce", "Heavy Cream", "Garam Masala", "Yogurt"]
+    },
+    {
+        "Id" : 26,
+        "Servings": 4,
+        "Name": "Shoyu",
+        "Category" : "Ramen",
+        "Ingredients": ["Ramen Noodles", "Soy Sauce Broth", "Marinated Pork", "Green Onion", "Eggs"]
+    },
+    {
+        "Id" : 27,
+        "Servings": 4,
+        "Name": "Tonkotsu",
+        "Category" : "Ramen",
+        "Ingredients": ["Ramen Noodles", "Pork Bone Broth", "Chashu Pork", "Eggs", "Green Onion"]
+    },
+    {
+        "Id" : 28,
+        "Servings": 4,
+        "Name": "Miso",
+        "Category" : "Ramen",
+        "Ingredients": ["Ramen Noodles", "Miso Broth", "Tofu", "Green Onion", "Canned Corn"]
+    },
+    {
+        "Id" : 29,
+        "Servings": 4,
+        "Name": "Shio",
+        "Category" : "Ramen",
+        "Ingredients": ["Ramen Noodles", "Salt Broth", "Chicken", "Bamboo Shoots", "Eggs"]
+    },
+    {
+        "Id" : 30,
+        "Servings": 4,
+        "Name": "Tsukemen",
+        "Category" : "Ramen",
+        "Ingredients": ["Thick Noodles", "Dipping Broth", "Chashu Pork", "Nori", "Eggs"]
+    },
+    {
+        "Id" : 31,
+        "Servings": 4,
+        "Name": "Spicy Tuna Roll",
+        "Category" : "Sushi",
+        "Ingredients": ["Sushi Rice", "Tuna", "Spicy Mayo", "Nori", "Sesame Seeds"]
+    },
+    {
+        "Id" : 32,
+        "Servings": 4,
+        "Name": "California Roll",
+        "Category" : "Sushi",
+        "Ingredients": ["Sushi Rice", "Crab Stick", "Avocado", "Cucumber", "Nori"]
+    },
+    {
+        "Id" : 33,
+        "Servings": 4,
+        "Name": "Dragon Roll",
+        "Category" : "Sushi",
+        "Ingredients": ["Sushi Rice", "Eel", "Avocado", "Cucumber", "Nori"]
+    },
+    {
+        "Id" : 34,
+        "Servings": 4,
+        "Name": "Philadelphia Roll",
+        "Category" : "Sushi",
+        "Ingredients": ["Sushi Rice", "Salmon", "Cream Cheese", "Cucumber", "Nori"]
+    },
+    {
+        "Id" : 35,
+        "Servings": 4,
+        "Name": "Rainbow Roll",
+        "Category" : "Sushi",
+        "Ingredients": ["Sushi Rice", "Yellowtail", "Avocado", "Cucumber", "Nori"]
+    }
+]

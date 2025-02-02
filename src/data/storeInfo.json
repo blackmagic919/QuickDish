@@ -1,0 +1,6102 @@
+[
+    {
+     "Name": "Aldi",
+     "Inventory":[
+        {
+            "Name": "Apple",
+            "Id": 1001,
+            "Price": 1.01,
+            "Type": "Fruit",
+            "Stock": 250,
+            "Brand": "Fresh Farms"
+        },
+        {
+            "Name": "Banana",
+            "Id": 1002,
+            "Price": 0.64,
+            "Type": "Fruit",
+            "Stock": 300,
+            "Brand": "Tropical Harvest"
+        },
+        {
+            "Name": "Carrot",
+            "Id": 1003,
+            "Price": 1.36,
+            "Type": "Vegetable",
+            "Stock": 200,
+            "Brand": "Organic Growers"
+        },
+        {
+            "Name": "Broccoli",
+            "Id": 1004,
+            "Price": 2.83,
+            "Type": "Vegetable",
+            "Stock": 150,
+            "Brand": "Green Valley"
+        },
+        {
+            "Name": "Tomato",
+            "Id": 1005,
+            "Price": 2.56,
+            "Type": "Vegetable",
+            "Stock": 220,
+            "Brand": "Sun Fresh"
+        },
+        {
+            "Name": "Onion",
+            "Id": 1006,
+            "Price": 1.65,
+            "Type": "Vegetable",
+            "Stock": 210,
+            "Brand": "Farmers Best"
+        },
+        {
+            "Name": "Garlic",
+            "Id": 1007,
+            "Price": 1.17,
+            "Type": "Vegetable",
+            "Stock": 180,
+            "Brand": "Pure Harvest"
+        },
+        {
+            "Name": "Chicken Breast",
+            "Id": 1008,
+            "Price": 5.22,
+            "Type": "Meat",
+            "Stock": 100,
+            "Brand": "Farm Fresh"
+        },
+        {
+            "Name": "Ground Beef",
+            "Id": 1009,
+            "Price": 7.91,
+            "Type": "Meat",
+            "Stock": 120,
+            "Brand": "Prime Cuts"
+        },
+        {
+            "Name": "Salmon",
+            "Id": 1010,
+            "Price": 9.94,
+            "Type": "Seafood",
+            "Stock": 90,
+            "Brand": "Ocean Catch"
+        },
+        {
+            "Name": "Milk",
+            "Id": 1011,
+            "Price": 2.42,
+            "Type": "Dairy",
+            "Stock": 180,
+            "Brand": "Dairyland"
+        },
+        {
+            "Name": "Cheddar Cheese",
+            "Id": 1012,
+            "Price": 6.35,
+            "Type": "Dairy",
+            "Stock": 140,
+            "Brand": "Cheese Co."
+        },
+        {
+            "Name": "Eggs",
+            "Id": 1013,
+            "Price": 3.02,
+            "Type": "Dairy",
+            "Stock": 220,
+            "Brand": "Golden Egg Farms"
+        },
+        {
+            "Name": "Butter",
+            "Id": 1014,
+            "Price": 2.57,
+            "Type": "Dairy",
+            "Stock": 150,
+            "Brand": "Creamy Delight"
+        },
+        {
+            "Name": "Flour",
+            "Id": 1015,
+            "Price": 2.31,
+            "Type": "Baking",
+            "Stock": 180,
+            "Brand": "Golden Wheat"
+        },
+        {
+            "Name": "Sugar",
+            "Id": 1016,
+            "Price": 3.49,
+            "Type": "Baking",
+            "Stock": 110,
+            "Brand": "Sweet Source"
+        },
+        {
+            "Name": "Salt",
+            "Id": 1017,
+            "Price": 1.58,
+            "Type": "Baking",
+            "Stock": 200,
+            "Brand": "Sea Harvest"
+        },
+        {
+            "Name": "Rice",
+            "Id": 1018,
+            "Price": 11.23,
+            "Type": "Grains",
+            "Stock": 90,
+            "Brand": "Nature's Grain"
+        },
+        {
+            "Name": "Pasta",
+            "Id": 1019,
+            "Price": 3.28,
+            "Type": "Grains",
+            "Stock": 130,
+            "Brand": "Italiano"
+        },
+        {
+            "Name": "Olive Oil",
+            "Id": 1020,
+            "Price": 8.5,
+            "Type": "Condiments",
+            "Stock": 80,
+            "Brand": "Mediterranean Pure"
+        },
+        {
+            "Name": "Vegetable Oil",
+            "Id": 1021,
+            "Price": 8.98,
+            "Type": "Condiments",
+            "Stock": 100,
+            "Brand": "Daily Cooking"
+        },
+        {
+            "Name": "Vinegar",
+            "Id": 1022,
+            "Price": 2.21,
+            "Type": "Condiments",
+            "Stock": 120,
+            "Brand": "Pure Taste"
+        },
+        {
+            "Name": "Soy Sauce",
+            "Id": 1023,
+            "Price": 5.16,
+            "Type": "Condiments",
+            "Stock": 140,
+            "Brand": "Asian Flavors"
+        },
+        {
+            "Name": "Tomato Sauce",
+            "Id": 1024,
+            "Price": 2.09,
+            "Type": "Condiments",
+            "Stock": 150,
+            "Brand": "Homestyle"
+        },
+        {
+            "Name": "Canned Beans",
+            "Id": 1025,
+            "Price": 2.26,
+            "Type": "Canned Goods",
+            "Stock": 200,
+            "Brand": "Healthy Choice"
+        },
+        {
+            "Name": "Canned Corn",
+            "Id": 1026,
+            "Price": 1.83,
+            "Type": "Canned Goods",
+            "Stock": 180,
+            "Brand": "Golden Harvest"
+        },
+        {
+            "Name": "Canned Tuna",
+            "Id": 1027,
+            "Price": 3.69,
+            "Type": "Canned Goods",
+            "Stock": 140,
+            "Brand": "Ocean Fresh"
+        },
+        {
+            "Name": "Chicken Broth",
+            "Id": 1028,
+            "Price": 4.52,
+            "Type": "Canned Goods",
+            "Stock": 130,
+            "Brand": "Savory Select"
+        },
+        {
+            "Name": "Beef Broth",
+            "Id": 1029,
+            "Price": 3.76,
+            "Type": "Canned Goods",
+            "Stock": 120,
+            "Brand": "Savory Select"
+        },
+        {
+            "Name": "Lentils",
+            "Id": 1030,
+            "Price": 2.43,
+            "Type": "Legumes",
+            "Stock": 160,
+            "Brand": "Green Harvest"
+        },
+        {
+            "Name": "Chickpeas",
+            "Id": 1031,
+            "Price": 2.74,
+            "Type": "Legumes",
+            "Stock": 170,
+            "Brand": "Nutri Pulse"
+        },
+        {
+            "Name": "Oats",
+            "Id": 1032,
+            "Price": 2.52,
+            "Type": "Grains",
+            "Stock": 110,
+            "Brand": "Healthy Start"
+        },
+        {
+            "Name": "Almonds",
+            "Id": 1033,
+            "Price": 7.03,
+            "Type": "Nuts",
+            "Stock": 90,
+            "Brand": "Nutty Delight"
+        },
+        {
+            "Name": "Peanuts",
+            "Id": 1034,
+            "Price": 5.27,
+            "Type": "Nuts",
+            "Stock": 100,
+            "Brand": "Crunchy Goodness"
+        },
+        {
+            "Name": "Honey",
+            "Id": 1035,
+            "Price": 6.73,
+            "Type": "Condiments",
+            "Stock": 100,
+            "Brand": "Nature's Gold"
+        },
+        {
+            "Name": "Cinnamon",
+            "Id": 1036,
+            "Price": 2.59,
+            "Type": "Spices",
+            "Stock": 140,
+            "Brand": "Spice World"
+        },
+        {
+            "Name": "Black Pepper",
+            "Id": 1037,
+            "Price": 3.76,
+            "Type": "Spices",
+            "Stock": 150,
+            "Brand": "Spice World"
+        },
+        {
+            "Name": "Cumin",
+            "Id": 1038,
+            "Price": 2.68,
+            "Type": "Spices",
+            "Stock": 160,
+            "Brand": "Spice World"
+        },
+        {
+            "Name": "Paprika",
+            "Id": 1039,
+            "Price": 2.61,
+            "Type": "Spices",
+            "Stock": 170,
+            "Brand": "Spice World"
+        },
+        {
+            "Name": "Basil",
+            "Id": 1040,
+            "Price": 2.07,
+            "Type": "Spices",
+            "Stock": 180,
+            "Brand": "Spice World"
+        },
+        {
+            "Name": "Parsley",
+            "Id": 1041,
+            "Price": 2.67,
+            "Type": "Spices",
+            "Stock": 190,
+            "Brand": "Spice World"
+        },
+        {
+            "Name": "Mushrooms",
+            "Id": 1042,
+            "Price": 2.86,
+            "Type": "Vegetable",
+            "Stock": 140,
+            "Brand": "Forest Fresh"
+        },
+        {
+            "Name": "Bell Peppers",
+            "Id": 1043,
+            "Price": 3.71,
+            "Type": "Vegetable",
+            "Stock": 150,
+            "Brand": "Color Harvest"
+        },
+        {
+            "Name": "Zucchini",
+            "Id": 1044,
+            "Price": 3.06,
+            "Type": "Vegetable",
+            "Stock": 160,
+            "Brand": "Garden Fresh"
+        },
+        {
+            "Name": "Potatoes",
+            "Id": 1045,
+            "Price": 3.24,
+            "Type": "Vegetable",
+            "Stock": 200,
+            "Brand": "Earth Bounty"
+        },
+        {
+            "Name": "Sweet Potatoes",
+            "Id": 1046,
+            "Price": 4.36,
+            "Type": "Vegetable",
+            "Stock": 180,
+            "Brand": "Earth Bounty"
+        },
+        {
+            "Name": "Yogurt",
+            "Id": 1047,
+            "Price": 5.18,
+            "Type": "Dairy",
+            "Stock": 120,
+            "Brand": "Creamy Bliss"
+        },
+        {
+            "Name": "Dough",
+            "Id": 1048,
+            "Price": 3.79,
+            "Type": "Baking",
+            "Stock": 150,
+            "Brand": "Golden Wheat"
+        },
+        {
+            "Name": "Mozzarella Cheese",
+            "Id": 1049,
+            "Price": 2.52,
+            "Type": "Dairy",
+            "Stock": 180,
+            "Brand": "Cheese Co."
+        },
+        {
+            "Name": "Pepperoni",
+            "Id": 1050,
+            "Price": 5.8,
+            "Type": "Meat",
+            "Stock": 120,
+            "Brand": "Prime Cuts"
+        },
+        {
+            "Name": "BBQ Sauce",
+            "Id": 1051,
+            "Price": 3.81,
+            "Type": "Condiments",
+            "Stock": 140,
+            "Brand": "Sweet BBQ"
+        },
+        {
+            "Name": "Chicken",
+            "Id": 1052,
+            "Price": 5.31,
+            "Type": "Meat",
+            "Stock": 130,
+            "Brand": "Farm Fresh"
+        },
+        {
+            "Name": "Red Onion",
+            "Id": 1053,
+            "Price": 1.07,
+            "Type": "Vegetable",
+            "Stock": 150,
+            "Brand": "Farmers Best"
+        },
+        {
+            "Name": "Ricotta Cheese",
+            "Id": 1054,
+            "Price": 4.09,
+            "Type": "Dairy",
+            "Stock": 110,
+            "Brand": "Creamy Delight"
+        },
+        {
+            "Name": "Parmesan Cheese",
+            "Id": 1055,
+            "Price": 4.41,
+            "Type": "Dairy",
+            "Stock": 100,
+            "Brand": "Cheese Co."
+        },
+        {
+            "Name": "Beef Patty",
+            "Id": 1056,
+            "Price": 6.01,
+            "Type": "Meat",
+            "Stock": 140,
+            "Brand": "Prime Cuts"
+        },
+        {
+            "Name": "Burger Bun",
+            "Id": 1057,
+            "Price": 1.99,
+            "Type": "Baking",
+            "Stock": 160,
+            "Brand": "Golden Wheat"
+        },
+        {
+            "Name": "Lettuce",
+            "Id": 1058,
+            "Price": 1.95,
+            "Type": "Vegetable",
+            "Stock": 170,
+            "Brand": "Green Valley"
+        },
+        {
+            "Name": "Bacon",
+            "Id": 1059,
+            "Price": 4.09,
+            "Type": "Meat",
+            "Stock": 120,
+            "Brand": "Prime Cuts"
+        },
+        {
+            "Name": "Veggie Patty",
+            "Id": 1060,
+            "Price": 7.33,
+            "Type": "Vegetarian",
+            "Stock": 110,
+            "Brand": "Green Harvest"
+        },
+        {
+            "Name": "Spaghetti",
+            "Id": 1061,
+            "Price": 3.71,
+            "Type": "Grains",
+            "Stock": 180,
+            "Brand": "Italiano"
+        },
+        {
+            "Name": "Pancetta",
+            "Id": 1062,
+            "Price": 6.86,
+            "Type": "Meat",
+            "Stock": 120,
+            "Brand": "Prime Cuts"
+        },
+        {
+            "Name": "Fettuccine",
+            "Id": 1063,
+            "Price": 3.64,
+            "Type": "Grains",
+            "Stock": 150,
+            "Brand": "Italiano"
+        },
+        {
+            "Name": "Heavy Cream",
+            "Id": 1064,
+            "Price": 4.38,
+            "Type": "Dairy",
+            "Stock": 140,
+            "Brand": "Dairyland"
+        },
+        {
+            "Name": "Lasagna Sheets",
+            "Id": 1065,
+            "Price": 5.03,
+            "Type": "Grains",
+            "Stock": 130,
+            "Brand": "Italiano"
+        },
+        {
+            "Name": "Pasta Dough",
+            "Id": 1066,
+            "Price": 2.68,
+            "Type": "Baking",
+            "Stock": 110,
+            "Brand": "Golden Wheat"
+        },
+        {
+            "Name": "Vodka",
+            "Id": 1067,
+            "Price": 11.55,
+            "Type": "Beverage",
+            "Stock": 90,
+            "Brand": "Premium Spirits"
+        },
+        {
+            "Name": "Corn Tortilla",
+            "Id": 1068,
+            "Price": 2.53,
+            "Type": "Grains",
+            "Stock": 180,
+            "Brand": "Mexi-Maize"
+        },
+        {
+            "Name": "Grilled Steak",
+            "Id": 1069,
+            "Price": 7.12,
+            "Type": "Meat",
+            "Stock": 100,
+            "Brand": "Prime Cuts"
+        },
+        {
+            "Name": "Cilantro",
+            "Id": 1070,
+            "Price": 2.34,
+            "Type": "Herbs",
+            "Stock": 170,
+            "Brand": "Spice World"
+        },
+        {
+            "Name": "Pineapple",
+            "Id": 1071,
+            "Price": 3.94,
+            "Type": "Fruit",
+            "Stock": 90,
+            "Brand": "Tropical Harvest"
+        },
+        {
+            "Name": "Fried Fish",
+            "Id": 1072,
+            "Price": 9.63,
+            "Type": "Seafood",
+            "Stock": 80,
+            "Brand": "Ocean Catch"
+        },
+        {
+            "Name": "Cabbage Slaw",
+            "Id": 1073,
+            "Price": 2.2,
+            "Type": "Vegetable",
+            "Stock": 120,
+            "Brand": "Farmers Best"
+        },
+        {
+            "Name": "Slow-Cooked Pork",
+            "Id": 1074,
+            "Price": 7.91,
+            "Type": "Meat",
+            "Stock": 110,
+            "Brand": "Prime Cuts"
+        },
+        {
+            "Name": "Curry Powder",
+            "Id": 1075,
+            "Price": 3.27,
+            "Type": "Spices",
+            "Stock": 140,
+            "Brand": "Spice World"
+        },
+        {
+            "Name": "Coconut Milk",
+            "Id": 1076,
+            "Price": 4.77,
+            "Type": "Condiments",
+            "Stock": 100,
+            "Brand": "Tropical Harvest"
+        },
+        {
+            "Name": "Curry Roux",
+            "Id": 1077,
+            "Price": 5.75,
+            "Type": "Condiments",
+            "Stock": 90,
+            "Brand": "Japanese Delight"
+        },
+        {
+            "Name": "Garam Masala",
+            "Id": 10978,
+            "Price": 3.47,
+            "Type": "Spices",
+            "Stock": 130,
+            "Brand": "Spice World"
+        },
+        {
+            "Name": "Ramen Noodles",
+            "Id": 1079,
+            "Price": 2.46,
+            "Type": "Grains",
+            "Stock": 180,
+            "Brand": "Noodle Masters"
+        },
+        {
+            "Name": "Pork Bone Broth",
+            "Id": 1080,
+            "Price": 8.83,
+            "Type": "Soup",
+            "Stock": 90,
+            "Brand": "Savory Select"
+        },
+        {
+            "Name": "Tofu",
+            "Id": 1081,
+            "Price": 3.56,
+            "Type": "Vegetarian",
+            "Stock": 120,
+            "Brand": "Healthy Choice"
+        },
+        {
+            "Name": "Salt Broth",
+            "Id": 1082,
+            "Price": 5.03,
+            "Type": "Soup",
+            "Stock": 100,
+            "Brand": "Savory Select"
+        },
+        {
+            "Name": "Sushi Rice",
+            "Id": 1083,
+            "Price": 3.91,
+            "Type": "Grains",
+            "Stock": 140,
+            "Brand": "Asian Flavors"
+        },
+        {
+            "Name": "Tuna",
+            "Id": 1084,
+            "Price": 6.49,
+            "Type": "Seafood",
+            "Stock": 90,
+            "Brand": "Ocean Catch"
+        },
+        {
+            "Name": "Spicy Mayo",
+            "Id": 1085,
+            "Price": 3.8,
+            "Type": "Condiments",
+            "Stock": 130,
+            "Brand": "Asian Flavors"
+        },
+        {
+            "Name": "Crab Stick",
+            "Id": 1086,
+            "Price": 4.73,
+            "Type": "Seafood",
+            "Stock": 100,
+            "Brand": "Ocean Catch"
+        },
+        {
+            "Name": "Avocado",
+            "Id": 1087,
+            "Price": 2.64,
+            "Type": "Fruit",
+            "Stock": 150,
+            "Brand": "Tropical Harvest"
+        },
+        {
+            "Name": "Cucumber",
+            "Id": 1088,
+            "Price": 2.17,
+            "Type": "Vegetable",
+            "Stock": 160,
+            "Brand": "Green Valley"
+        },
+        {
+            "Name": "Nori",
+            "Id": 1089,
+            "Price": 6.25,
+            "Type": "Condiments",
+            "Stock": 110,
+            "Brand": "Japanese Delight"
+        },
+        {
+            "Name": "Eel",
+            "Id": 1090,
+            "Price": 11.36,
+            "Type": "Seafood",
+            "Stock": 80,
+            "Brand": "Ocean Catch"
+        },
+        {
+            "Name": "Cream Cheese",
+            "Id": 1091,
+            "Price": 3.45,
+            "Type": "Dairy",
+            "Stock": 120,
+            "Brand": "Cheese Co."
+        },
+        {
+            "Name": "Whole Wheat Bread",
+            "Id": 1092,
+            "Price": 3.45,
+            "Type": "Bakery",
+            "Stock": 200,
+            "Brand": "Healthy Grains"
+        },
+        {
+            "Name": "White Bread",
+            "Id": 1093,
+            "Price": 2.29,
+            "Type": "Bakery",
+            "Stock": 220,
+            "Brand": "Golden Loaf"
+        },
+        {
+            "Name": "Brown Sugar",
+            "Id": 1094,
+            "Price": 3.73,
+            "Type": "Baking",
+            "Stock": 150,
+            "Brand": "Sweet Source"
+        },
+        {
+            "Name": "Baking Powder",
+            "Id": 1095,
+            "Price": 2.53,
+            "Type": "Baking",
+            "Stock": 140,
+            "Brand": "Baker's Best"
+        },
+        {
+            "Name": "Baking Soda",
+            "Id": 1096,
+            "Price": 1.46,
+            "Type": "Baking",
+            "Stock": 160,
+            "Brand": "Pure Essentials"
+        },
+        {
+            "Name": "Yeast",
+            "Id": 1097,
+            "Price": 2.3,
+            "Type": "Baking",
+            "Stock": 130,
+            "Brand": "Rise & Bake"
+        },
+        {
+            "Name": "Vanilla Extract",
+            "Id": 1098,
+            "Price": 6.08,
+            "Type": "Baking",
+            "Stock": 100,
+            "Brand": "Pure Essence"
+        },
+        {
+            "Name": "Chocolate Chips",
+            "Id": 1099,
+            "Price": 6.01,
+            "Type": "Baking",
+            "Stock": 110,
+            "Brand": "Sweet Treats"
+        },
+        {
+            "Name": "Peanut Butter",
+            "Id": 1100,
+            "Price": 5.81,
+            "Type": "Spreads",
+            "Stock": 120,
+            "Brand": "Nutty Delight"
+        },
+        {
+            "Name": "Jelly",
+            "Id": 1101,
+            "Price": 3.48,
+            "Type": "Spreads",
+            "Stock": 130,
+            "Brand": "Fruit Fresh"
+        },
+        {
+            "Name": "Mayonnaise",
+            "Id": 1102,
+            "Price": 4.15,
+            "Type": "Condiments",
+            "Stock": 140,
+            "Brand": "Creamy Select"
+        },
+        {
+            "Name": "Ketchup",
+            "Id": 1103,
+            "Price": 2.39,
+            "Type": "Condiments",
+            "Stock": 160,
+            "Brand": "Tomato Pure"
+        },
+        {
+            "Name": "Mustard",
+            "Id": 1104,
+            "Price": 2.34,
+            "Type": "Condiments",
+            "Stock": 150,
+            "Brand": "Golden Classic"
+        },
+        {
+            "Name": "Pickles",
+            "Id": 1105,
+            "Price": 3.77,
+            "Type": "Condiments",
+            "Stock": 120,
+            "Brand": "Crunchy Harvest"
+        },
+        {
+            "Name": "Relish",
+            "Id": 1106,
+            "Price": 3.08,
+            "Type": "Condiments",
+            "Stock": 130,
+            "Brand": "Tangy Delight"
+        },
+        {
+            "Name": "Cornmeal",
+            "Id": 1107,
+            "Price": 3.41,
+            "Type": "Baking",
+            "Stock": 140,
+            "Brand": "Golden Maize"
+        },
+        {
+            "Name": "Lentil Soup",
+            "Id": 1108,
+            "Price": 6.25,
+            "Type": "Canned Goods",
+            "Stock": 100,
+            "Brand": "Healthy Choice"
+        },
+        {
+            "Name": "Macaroni",
+            "Id": 1109,
+            "Price": 2.44,
+            "Type": "Grains",
+            "Stock": 180,
+            "Brand": "Italiano"
+        },
+        {
+            "Name": "Instant Oatmeal",
+            "Id": 1110,
+            "Price": 3.06,
+            "Type": "Breakfast",
+            "Stock": 120,
+            "Brand": "Healthy Start"
+        },
+        {
+            "Name": "Granola",
+            "Id": 1111,
+            "Price": 5.52,
+            "Type": "Breakfast",
+            "Stock": 140,
+            "Brand": "Crunchy Goodness"
+        },
+        {
+            "Name": "Frozen Mixed Vegetables",
+            "Id": 1112,
+            "Price": 4.45,
+            "Type": "Frozen",
+            "Stock": 110,
+            "Brand": "Nature's Best"
+        },
+        {
+            "Name": "Frozen Berries",
+            "Id": 1113,
+            "Price": 7.12,
+            "Type": "Frozen",
+            "Stock": 100,
+            "Brand": "Berry Fresh"
+        },
+        {
+            "Name": "Frozen Pizza",
+            "Id": 1114,
+            "Price": 9.65,
+            "Type": "Frozen",
+            "Stock": 90,
+            "Brand": "Quick Bite"
+        },
+        {
+            "Name": "Ice Cream",
+            "Id": 1115,
+            "Price": 5.21,
+            "Type": "Frozen",
+            "Stock": 130,
+            "Brand": "Sweet Treats"
+        },
+        {
+            "Name": "Lemon",
+            "Id": 1116,
+            "Price": 0.86,
+            "Type": "Fruit",
+            "Stock": 300,
+            "Brand": "Citrus Fresh"
+        },
+        {
+            "Name": "Lime",
+            "Id": 1117,
+            "Price": 0.51,
+            "Type": "Fruit",
+            "Stock": 320,
+            "Brand": "Citrus Fresh"
+        },
+        {
+            "Name": "Oranges",
+            "Id": 1118,
+            "Price": 1.13,
+            "Type": "Fruit",
+            "Stock": 250,
+            "Brand": "Sun Kissed"
+        },
+        {
+            "Name": "Grapes",
+            "Id": 1119,
+            "Price": 3.57,
+            "Type": "Fruit",
+            "Stock": 180,
+            "Brand": "Vine Harvest"
+        },
+        {
+            "Name": "Strawberries",
+            "Id": 1120,
+            "Price": 4.08,
+            "Type": "Fruit",
+            "Stock": 140,
+            "Brand": "Berry Farm"
+        },
+        {
+            "Name": "Blueberries",
+            "Id": 1121,
+            "Price": 4.96,
+            "Type": "Fruit",
+            "Stock": 120,
+            "Brand": "Berry Farm"
+        },
+        {
+            "Name": "Coconut Water",
+            "Id": 1122,
+            "Price": 4.62,
+            "Type": "Beverage",
+            "Stock": 110,
+            "Brand": "Tropical Hydration"
+        },
+        {
+            "Name": "Green Tea",
+            "Id": 1123,
+            "Price": 3.73,
+            "Type": "Beverage",
+            "Stock": 130,
+            "Brand": "Tea Masters"
+        },
+        {
+            "Name": "Coffee Beans",
+            "Id": 1124,
+            "Price": 5.73,
+            "Type": "Beverage",
+            "Stock": 90,
+            "Brand": "Morning Roast"
+        },
+        {
+            "Name": "Cereal",
+            "Id": 1125,
+            "Price": 3.8,
+            "Type": "Breakfast",
+            "Stock": 160,
+            "Brand": "Morning Crunch"
+        },
+        {
+            "Name": "Soy Milk",
+            "Id": 1126,
+            "Price": 4.32,
+            "Type": "Dairy Alternative",
+            "Stock": 110,
+            "Brand": "Healthy Choice"
+        },
+        {
+            "Name": "Chia Seeds",
+            "Id": 1127,
+            "Price": 5.31,
+            "Type": "Superfoods",
+            "Stock": 100,
+            "Brand": "Organic Power"
+        },
+        {
+            "Name": "Quinoa",
+            "Id": 1128,
+            "Price": 8.94,
+            "Type": "Grains",
+            "Stock": 110,
+            "Brand": "Healthy Harvest"
+        },
+        {
+            "Name": "Sunflower Seeds",
+            "Id": 1129,
+            "Price": 3.44,
+            "Type": "Nuts",
+            "Stock": 150,
+            "Brand": "Crunchy Goodness"
+        },
+        {
+            "Name": "Raisins",
+            "Id": 1130,
+            "Price": 5.06,
+            "Type": "Dried Fruit",
+            "Stock": 120,
+            "Brand": "Sun Harvest"
+        },
+        {
+            "Name": "Cranberries",
+            "Id": 1131,
+            "Price": 4.29,
+            "Type": "Dried Fruit",
+            "Stock": 130,
+            "Brand": "Berry Delight"
+        },
+        {
+            "Name": "Coconut Flakes",
+            "Id": 1132,
+            "Price": 4.21,
+            "Type": "Baking",
+            "Stock": 110,
+            "Brand": "Tropical Taste"
+        },
+        {
+            "Name": "Almond Milk",
+            "Id": 1133,
+            "Price": 6.78,
+            "Type": "Dairy Alternative",
+            "Stock": 100,
+            "Brand": "Nutty Delight"
+        },
+        {
+            "Name": "Swiss Cheese",
+            "Id": 1134,
+            "Price": 3.63,
+            "Type": "Dairy",
+            "Stock": 180,
+            "Brand": "Cheese Co."
+        },
+        {
+            "Name": "Onion Rings",
+            "Id": 1135,
+            "Price": 6.84,
+            "Type": "Frozen",
+            "Stock": 180,
+            "Brand": "Crispy Bites"
+        },
+        {
+            "Name": "Penne",
+            "Id": 1136,
+            "Price": 3.74,
+            "Type": "Grains",
+            "Stock": 200,
+            "Brand": "Italiano"
+        },
+        {
+            "Name": "Marinated Pork",
+            "Id": 1137,
+            "Price": 6.82,
+            "Type": "Meat",
+            "Stock": 150,
+            "Brand": "Prime Cuts"
+        },
+        {
+            "Name": "White Sauce",
+            "Id": 1138,
+            "Price": 4.63,
+            "Type": "Condiments",
+            "Stock": 150,
+            "Brand": "Creamy Delight"
+        },
+        {
+            "Name": "Shredded Beef",
+            "Id": 1139,
+            "Price": 10.5,
+            "Type": "Meat",
+            "Stock": 140,
+            "Brand": "Prime Cuts"
+        },
+        {
+            "Name": "Salsa",
+            "Id": 1140,
+            "Price": 4.02,
+            "Type": "Condiments",
+            "Stock": 160,
+            "Brand": "Fresh Fiesta"
+        },
+        {
+            "Name": "Green Curry Paste",
+            "Id": 1141,
+            "Price": 4.28,
+            "Type": "Condiments",
+            "Stock": 120,
+            "Brand": "Thai Essence"
+        },
+        {
+            "Name": "Lemongrass",
+            "Id": 1142,
+            "Price": 2.75,
+            "Type": "Herbs",
+            "Stock": 140,
+            "Brand": "Fresh Harvest"
+        },
+        {
+            "Name": "Chili Powder",
+            "Id": 1143,
+            "Price": 3.19,
+            "Type": "Spices",
+            "Stock": 150,
+            "Brand": "Spice World"
+        },
+        {
+            "Name": "Soy Sauce Broth",
+            "Id": 1144,
+            "Price": 4.47,
+            "Type": "Condiments",
+            "Stock": 130,
+            "Brand": "Asian Flavors"
+        },
+        {
+            "Name": "Green Onion",
+            "Id": 1145,
+            "Price": 2.41,
+            "Type": "Vegetable",
+            "Stock": 180,
+            "Brand": "Farm Fresh"
+        },
+        {
+            "Name": "Miso Broth",
+            "Id": 1146,
+            "Price": 4.27,
+            "Type": "Condiments",
+            "Stock": 110,
+            "Brand": "Japanese Essence"
+        },
+        {
+            "Name": "Bamboo Shoots",
+            "Id": 1147,
+            "Price": 2.84,
+            "Type": "Vegetable",
+            "Stock": 140,
+            "Brand": "Asian Harvest"
+        },
+        {
+            "Name": "Thick Noodles",
+            "Id": 1148,
+            "Price": 4.65,
+            "Type": "Grains",
+            "Stock": 160,
+            "Brand": "Noodle Masters"
+        },
+        {
+            "Name": "Dipping Broth",
+            "Id": 1149,
+            "Price": 3.55,
+            "Type": "Condiments",
+            "Stock": 100,
+            "Brand": "Japanese Essence"
+        },
+        {
+            "Name": "Chashu Pork",
+            "Id": 1150,
+            "Price": 5.98,
+            "Type": "Meat",
+            "Stock": 130,
+            "Brand": "Prime Cuts"
+        },
+        {
+            "Name": "Sesame Seeds",
+            "Id": 1151,
+            "Price": 2.86,
+            "Type": "Spices",
+            "Stock": 170,
+            "Brand": "Nutty Delights"
+        },
+        {
+            "Name": "Yellowtail",
+            "Id": 1152,
+            "Price": 8.23,
+            "Type": "Seafood",
+            "Stock": 90,
+            "Brand": "Ocean Fresh"
+        }
+    ]},
+    {
+        "Name": "H Mart",
+        "Inventory":[
+        {
+            "Name": "Apple",
+            "Id": 1001,
+            "Price": 0.76,
+            "Type": "Fruit",
+            "Stock": 250,
+            "Brand": "Fresh Farms"
+        },
+        {
+            "Name": "Banana",
+            "Id": 1002,
+            "Price": 0.63,
+            "Type": "Fruit",
+            "Stock": 300,
+            "Brand": "Tropical Harvest"
+        },
+        {
+            "Name": "Carrot",
+            "Id": 1003,
+            "Price": 1.64,
+            "Type": "Vegetable",
+            "Stock": 200,
+            "Brand": "Organic Growers"
+        },
+        {
+            "Name": "Broccoli",
+            "Id": 1004,
+            "Price": 2.47,
+            "Type": "Vegetable",
+            "Stock": 150,
+            "Brand": "Green Valley"
+        },
+        {
+            "Name": "Tomato",
+            "Id": 1005,
+            "Price": 1.74,
+            "Type": "Vegetable",
+            "Stock": 220,
+            "Brand": "Sun Fresh"
+        },
+        {
+            "Name": "Onion",
+            "Id": 1006,
+            "Price": 1.29,
+            "Type": "Vegetable",
+            "Stock": 210,
+            "Brand": "Farmers Best"
+        },
+        {
+            "Name": "Garlic",
+            "Id": 1007,
+            "Price": 1.21,
+            "Type": "Vegetable",
+            "Stock": 180,
+            "Brand": "Pure Harvest"
+        },
+        {
+            "Name": "Chicken Breast",
+            "Id": 1008,
+            "Price": 5.19,
+            "Type": "Meat",
+            "Stock": 100,
+            "Brand": "Farm Fresh"
+        },
+        {
+            "Name": "Ground Beef",
+            "Id": 1009,
+            "Price": 7.07,
+            "Type": "Meat",
+            "Stock": 120,
+            "Brand": "Prime Cuts"
+        },
+        {
+            "Name": "Salmon",
+            "Id": 1010,
+            "Price": 8.95,
+            "Type": "Seafood",
+            "Stock": 90,
+            "Brand": "Ocean Catch"
+        },
+        {
+            "Name": "Milk",
+            "Id": 1011,
+            "Price": 2.37,
+            "Type": "Dairy",
+            "Stock": 180,
+            "Brand": "Dairyland"
+        },
+        {
+            "Name": "Cheddar Cheese",
+            "Id": 1012,
+            "Price": 5.72,
+            "Type": "Dairy",
+            "Stock": 140,
+            "Brand": "Cheese Co."
+        },
+        {
+            "Name": "Eggs",
+            "Id": 1013,
+            "Price": 2.86,
+            "Type": "Dairy",
+            "Stock": 220,
+            "Brand": "Golden Egg Farms"
+        },
+        {
+            "Name": "Butter",
+            "Id": 1014,
+            "Price": 3.47,
+            "Type": "Dairy",
+            "Stock": 150,
+            "Brand": "Creamy Delight"
+        },
+        {
+            "Name": "Flour",
+            "Id": 1015,
+            "Price": 2.78,
+            "Type": "Baking",
+            "Stock": 180,
+            "Brand": "Golden Wheat"
+        },
+        {
+            "Name": "Sugar",
+            "Id": 1016,
+            "Price": 3.3,
+            "Type": "Baking",
+            "Stock": 110,
+            "Brand": "Sweet Source"
+        },
+        {
+            "Name": "Salt",
+            "Id": 1017,
+            "Price": 2.4,
+            "Type": "Baking",
+            "Stock": 200,
+            "Brand": "Sea Harvest"
+        },
+        {
+            "Name": "Rice",
+            "Id": 1018,
+            "Price": 7.56,
+            "Type": "Grains",
+            "Stock": 90,
+            "Brand": "Nature's Grain"
+        },
+        {
+            "Name": "Pasta",
+            "Id": 1019,
+            "Price": 2.73,
+            "Type": "Grains",
+            "Stock": 130,
+            "Brand": "Italiano"
+        },
+        {
+            "Name": "Olive Oil",
+            "Id": 1020,
+            "Price": 11.08,
+            "Type": "Condiments",
+            "Stock": 80,
+            "Brand": "Mediterranean Pure"
+        },
+        {
+            "Name": "Vegetable Oil",
+            "Id": 1021,
+            "Price": 5.71,
+            "Type": "Condiments",
+            "Stock": 100,
+            "Brand": "Daily Cooking"
+        },
+        {
+            "Name": "Vinegar",
+            "Id": 1022,
+            "Price": 2.82,
+            "Type": "Condiments",
+            "Stock": 120,
+            "Brand": "Pure Taste"
+        },
+        {
+            "Name": "Soy Sauce",
+            "Id": 1023,
+            "Price": 3.95,
+            "Type": "Condiments",
+            "Stock": 140,
+            "Brand": "Asian Flavors"
+        },
+        {
+            "Name": "Tomato Sauce",
+            "Id": 1024,
+            "Price": 3.19,
+            "Type": "Condiments",
+            "Stock": 150,
+            "Brand": "Homestyle"
+        },
+        {
+            "Name": "Canned Beans",
+            "Id": 1025,
+            "Price": 2.24,
+            "Type": "Canned Goods",
+            "Stock": 200,
+            "Brand": "Healthy Choice"
+        },
+        {
+            "Name": "Canned Corn",
+            "Id": 1026,
+            "Price": 1.43,
+            "Type": "Canned Goods",
+            "Stock": 180,
+            "Brand": "Golden Harvest"
+        },
+        {
+            "Name": "Canned Tuna",
+            "Id": 1027,
+            "Price": 3.43,
+            "Type": "Canned Goods",
+            "Stock": 140,
+            "Brand": "Ocean Fresh"
+        },
+        {
+            "Name": "Chicken Broth",
+            "Id": 1028,
+            "Price": 4.68,
+            "Type": "Canned Goods",
+            "Stock": 130,
+            "Brand": "Savory Select"
+        },
+        {
+            "Name": "Beef Broth",
+            "Id": 1029,
+            "Price": 3.65,
+            "Type": "Canned Goods",
+            "Stock": 120,
+            "Brand": "Savory Select"
+        },
+        {
+            "Name": "Lentils",
+            "Id": 1030,
+            "Price": 2.53,
+            "Type": "Legumes",
+            "Stock": 160,
+            "Brand": "Green Harvest"
+        },
+        {
+            "Name": "Chickpeas",
+            "Id": 1031,
+            "Price": 1.93,
+            "Type": "Legumes",
+            "Stock": 170,
+            "Brand": "Nutri Pulse"
+        },
+        {
+            "Name": "Oats",
+            "Id": 1032,
+            "Price": 4.1,
+            "Type": "Grains",
+            "Stock": 110,
+            "Brand": "Healthy Start"
+        },
+        {
+            "Name": "Almonds",
+            "Id": 1033,
+            "Price": 6.74,
+            "Type": "Nuts",
+            "Stock": 90,
+            "Brand": "Nutty Delight"
+        },
+        {
+            "Name": "Peanuts",
+            "Id": 1034,
+            "Price": 5.13,
+            "Type": "Nuts",
+            "Stock": 100,
+            "Brand": "Crunchy Goodness"
+        },
+        {
+            "Name": "Honey",
+            "Id": 1035,
+            "Price": 5.71,
+            "Type": "Condiments",
+            "Stock": 100,
+            "Brand": "Nature's Gold"
+        },
+        {
+            "Name": "Cinnamon",
+            "Id": 1036,
+            "Price": 2.12,
+            "Type": "Spices",
+            "Stock": 140,
+            "Brand": "Spice World"
+        },
+        {
+            "Name": "Black Pepper",
+            "Id": 1037,
+            "Price": 4.05,
+            "Type": "Spices",
+            "Stock": 150,
+            "Brand": "Spice World"
+        },
+        {
+            "Name": "Cumin",
+            "Id": 1038,
+            "Price": 2.89,
+            "Type": "Spices",
+            "Stock": 160,
+            "Brand": "Spice World"
+        },
+        {
+            "Name": "Paprika",
+            "Id": 1039,
+            "Price": 2.8,
+            "Type": "Spices",
+            "Stock": 170,
+            "Brand": "Spice World"
+        },
+        {
+            "Name": "Basil",
+            "Id": 1040,
+            "Price": 2.8,
+            "Type": "Spices",
+            "Stock": 180,
+            "Brand": "Spice World"
+        },
+        {
+            "Name": "Parsley",
+            "Id": 1041,
+            "Price": 2.96,
+            "Type": "Spices",
+            "Stock": 190,
+            "Brand": "Spice World"
+        },
+        {
+            "Name": "Mushrooms",
+            "Id": 1042,
+            "Price": 3.23,
+            "Type": "Vegetable",
+            "Stock": 140,
+            "Brand": "Forest Fresh"
+        },
+        {
+            "Name": "Bell Peppers",
+            "Id": 1043,
+            "Price": 2.7,
+            "Type": "Vegetable",
+            "Stock": 150,
+            "Brand": "Color Harvest"
+        },
+        {
+            "Name": "Zucchini",
+            "Id": 1044,
+            "Price": 1.79,
+            "Type": "Vegetable",
+            "Stock": 160,
+            "Brand": "Garden Fresh"
+        },
+        {
+            "Name": "Potatoes",
+            "Id": 1045,
+            "Price": 3.79,
+            "Type": "Vegetable",
+            "Stock": 200,
+            "Brand": "Earth Bounty"
+        },
+        {
+            "Name": "Sweet Potatoes",
+            "Id": 1046,
+            "Price": 3.07,
+            "Type": "Vegetable",
+            "Stock": 180,
+            "Brand": "Earth Bounty"
+        },
+        {
+            "Name": "Yogurt",
+            "Id": 1047,
+            "Price": 3.52,
+            "Type": "Dairy",
+            "Stock": 120,
+            "Brand": "Creamy Bliss"
+        },
+        {
+            "Name": "Dough",
+            "Id": 1048,
+            "Price": 3.32,
+            "Type": "Baking",
+            "Stock": 150,
+            "Brand": "Golden Wheat"
+        },
+        {
+            "Name": "Mozzarella Cheese",
+            "Id": 1049,
+            "Price": 3.15,
+            "Type": "Dairy",
+            "Stock": 180,
+            "Brand": "Cheese Co."
+        },
+        {
+            "Name": "Pepperoni",
+            "Id": 1050,
+            "Price": 4.93,
+            "Type": "Meat",
+            "Stock": 120,
+            "Brand": "Prime Cuts"
+        },
+        {
+            "Name": "BBQ Sauce",
+            "Id": 1051,
+            "Price": 4.9,
+            "Type": "Condiments",
+            "Stock": 140,
+            "Brand": "Sweet BBQ"
+        },
+        {
+            "Name": "Chicken",
+            "Id": 1052,
+            "Price": 6.1,
+            "Type": "Meat",
+            "Stock": 130,
+            "Brand": "Farm Fresh"
+        },
+        {
+            "Name": "Red Onion",
+            "Id": 1053,
+            "Price": 1.08,
+            "Type": "Vegetable",
+            "Stock": 150,
+            "Brand": "Farmers Best"
+        },
+        {
+            "Name": "Ricotta Cheese",
+            "Id": 1054,
+            "Price": 5.98,
+            "Type": "Dairy",
+            "Stock": 110,
+            "Brand": "Creamy Delight"
+        },
+        {
+            "Name": "Parmesan Cheese",
+            "Id": 1055,
+            "Price": 6.3,
+            "Type": "Dairy",
+            "Stock": 100,
+            "Brand": "Cheese Co."
+        },
+        {
+            "Name": "Beef Patty",
+            "Id": 1056,
+            "Price": 5.03,
+            "Type": "Meat",
+            "Stock": 140,
+            "Brand": "Prime Cuts"
+        },
+        {
+            "Name": "Burger Bun",
+            "Id": 1057,
+            "Price": 3.22,
+            "Type": "Baking",
+            "Stock": 160,
+            "Brand": "Golden Wheat"
+        },
+        {
+            "Name": "Lettuce",
+            "Id": 1058,
+            "Price": 1.57,
+            "Type": "Vegetable",
+            "Stock": 170,
+            "Brand": "Green Valley"
+        },
+        {
+            "Name": "Bacon",
+            "Id": 1059,
+            "Price": 3.93,
+            "Type": "Meat",
+            "Stock": 120,
+            "Brand": "Prime Cuts"
+        },
+        {
+            "Name": "Veggie Patty",
+            "Id": 1060,
+            "Price": 7.15,
+            "Type": "Vegetarian",
+            "Stock": 110,
+            "Brand": "Green Harvest"
+        },
+        {
+            "Name": "Spaghetti",
+            "Id": 1061,
+            "Price": 2.44,
+            "Type": "Grains",
+            "Stock": 180,
+            "Brand": "Italiano"
+        },
+        {
+            "Name": "Pancetta",
+            "Id": 1062,
+            "Price": 8.04,
+            "Type": "Meat",
+            "Stock": 120,
+            "Brand": "Prime Cuts"
+        },
+        {
+            "Name": "Fettuccine",
+            "Id": 1063,
+            "Price": 3.79,
+            "Type": "Grains",
+            "Stock": 150,
+            "Brand": "Italiano"
+        },
+        {
+            "Name": "Heavy Cream",
+            "Id": 1064,
+            "Price": 4.02,
+            "Type": "Dairy",
+            "Stock": 140,
+            "Brand": "Dairyland"
+        },
+        {
+            "Name": "Lasagna Sheets",
+            "Id": 1065,
+            "Price": 3.09,
+            "Type": "Grains",
+            "Stock": 130,
+            "Brand": "Italiano"
+        },
+        {
+            "Name": "Pasta Dough",
+            "Id": 1066,
+            "Price": 3.35,
+            "Type": "Baking",
+            "Stock": 110,
+            "Brand": "Golden Wheat"
+        },
+        {
+            "Name": "Vodka",
+            "Id": 1067,
+            "Price": 9.41,
+            "Type": "Beverage",
+            "Stock": 90,
+            "Brand": "Premium Spirits"
+        },
+        {
+            "Name": "Corn Tortilla",
+            "Id": 1068,
+            "Price": 1.79,
+            "Type": "Grains",
+            "Stock": 180,
+            "Brand": "Mexi-Maize"
+        },
+        {
+            "Name": "Grilled Steak",
+            "Id": 1069,
+            "Price": 6.23,
+            "Type": "Meat",
+            "Stock": 100,
+            "Brand": "Prime Cuts"
+        },
+        {
+            "Name": "Cilantro",
+            "Id": 1070,
+            "Price": 2.46,
+            "Type": "Herbs",
+            "Stock": 170,
+            "Brand": "Spice World"
+        },
+        {
+            "Name": "Pineapple",
+            "Id": 1071,
+            "Price": 5.03,
+            "Type": "Fruit",
+            "Stock": 90,
+            "Brand": "Tropical Harvest"
+        },
+        {
+            "Name": "Fried Fish",
+            "Id": 1072,
+            "Price": 6.63,
+            "Type": "Seafood",
+            "Stock": 80,
+            "Brand": "Ocean Catch"
+        },
+        {
+            "Name": "Cabbage Slaw",
+            "Id": 1073,
+            "Price": 3.2,
+            "Type": "Vegetable",
+            "Stock": 120,
+            "Brand": "Farmers Best"
+        },
+        {
+            "Name": "Slow-Cooked Pork",
+            "Id": 1074,
+            "Price": 8.37,
+            "Type": "Meat",
+            "Stock": 110,
+            "Brand": "Prime Cuts"
+        },
+        {
+            "Name": "Curry Powder",
+            "Id": 1075,
+            "Price": 2.87,
+            "Type": "Spices",
+            "Stock": 140,
+            "Brand": "Spice World"
+        },
+        {
+            "Name": "Coconut Milk",
+            "Id": 1076,
+            "Price": 5.01,
+            "Type": "Condiments",
+            "Stock": 100,
+            "Brand": "Tropical Harvest"
+        },
+        {
+            "Name": "Curry Roux",
+            "Id": 1077,
+            "Price": 6.8,
+            "Type": "Condiments",
+            "Stock": 90,
+            "Brand": "Japanese Delight"
+        },
+        {
+            "Name": "Garam Masala",
+            "Id": 10978,
+            "Price": 2.96,
+            "Type": "Spices",
+            "Stock": 130,
+            "Brand": "Spice World"
+        },
+        {
+            "Name": "Ramen Noodles",
+            "Id": 1079,
+            "Price": 4.19,
+            "Type": "Grains",
+            "Stock": 180,
+            "Brand": "Noodle Masters"
+        },
+        {
+            "Name": "Pork Bone Broth",
+            "Id": 1080,
+            "Price": 8.04,
+            "Type": "Soup",
+            "Stock": 90,
+            "Brand": "Savory Select"
+        },
+        {
+            "Name": "Tofu",
+            "Id": 1081,
+            "Price": 4.01,
+            "Type": "Vegetarian",
+            "Stock": 120,
+            "Brand": "Healthy Choice"
+        },
+        {
+            "Name": "Salt Broth",
+            "Id": 1082,
+            "Price": 4.62,
+            "Type": "Soup",
+            "Stock": 100,
+            "Brand": "Savory Select"
+        },
+        {
+            "Name": "Sushi Rice",
+            "Id": 1083,
+            "Price": 3.99,
+            "Type": "Grains",
+            "Stock": 140,
+            "Brand": "Asian Flavors"
+        },
+        {
+            "Name": "Tuna",
+            "Id": 1084,
+            "Price": 7.8,
+            "Type": "Seafood",
+            "Stock": 90,
+            "Brand": "Ocean Catch"
+        },
+        {
+            "Name": "Spicy Mayo",
+            "Id": 1085,
+            "Price": 2.43,
+            "Type": "Condiments",
+            "Stock": 130,
+            "Brand": "Asian Flavors"
+        },
+        {
+            "Name": "Crab Stick",
+            "Id": 1086,
+            "Price": 5.28,
+            "Type": "Seafood",
+            "Stock": 100,
+            "Brand": "Ocean Catch"
+        },
+        {
+            "Name": "Avocado",
+            "Id": 1087,
+            "Price": 2.12,
+            "Type": "Fruit",
+            "Stock": 150,
+            "Brand": "Tropical Harvest"
+        },
+        {
+            "Name": "Cucumber",
+            "Id": 1088,
+            "Price": 1.58,
+            "Type": "Vegetable",
+            "Stock": 160,
+            "Brand": "Green Valley"
+        },
+        {
+            "Name": "Nori",
+            "Id": 1089,
+            "Price": 4.66,
+            "Type": "Condiments",
+            "Stock": 110,
+            "Brand": "Japanese Delight"
+        },
+        {
+            "Name": "Eel",
+            "Id": 1090,
+            "Price": 10.31,
+            "Type": "Seafood",
+            "Stock": 80,
+            "Brand": "Ocean Catch"
+        },
+        {
+            "Name": "Cream Cheese",
+            "Id": 1091,
+            "Price": 2.75,
+            "Type": "Dairy",
+            "Stock": 120,
+            "Brand": "Cheese Co."
+        },
+        {
+            "Name": "Whole Wheat Bread",
+            "Id": 1092,
+            "Price": 2.96,
+            "Type": "Bakery",
+            "Stock": 200,
+            "Brand": "Healthy Grains"
+        },
+        {
+            "Name": "White Bread",
+            "Id": 1093,
+            "Price": 2.18,
+            "Type": "Bakery",
+            "Stock": 220,
+            "Brand": "Golden Loaf"
+        },
+        {
+            "Name": "Brown Sugar",
+            "Id": 1094,
+            "Price": 3.08,
+            "Type": "Baking",
+            "Stock": 150,
+            "Brand": "Sweet Source"
+        },
+        {
+            "Name": "Baking Powder",
+            "Id": 1095,
+            "Price": 3.06,
+            "Type": "Baking",
+            "Stock": 140,
+            "Brand": "Baker's Best"
+        },
+        {
+            "Name": "Baking Soda",
+            "Id": 1096,
+            "Price": 2.24,
+            "Type": "Baking",
+            "Stock": 160,
+            "Brand": "Pure Essentials"
+        },
+        {
+            "Name": "Yeast",
+            "Id": 1097,
+            "Price": 2.52,
+            "Type": "Baking",
+            "Stock": 130,
+            "Brand": "Rise & Bake"
+        },
+        {
+            "Name": "Vanilla Extract",
+            "Id": 1098,
+            "Price": 6.44,
+            "Type": "Baking",
+            "Stock": 100,
+            "Brand": "Pure Essence"
+        },
+        {
+            "Name": "Chocolate Chips",
+            "Id": 1099,
+            "Price": 5.64,
+            "Type": "Baking",
+            "Stock": 110,
+            "Brand": "Sweet Treats"
+        },
+        {
+            "Name": "Peanut Butter",
+            "Id": 1100,
+            "Price": 6.07,
+            "Type": "Spreads",
+            "Stock": 120,
+            "Brand": "Nutty Delight"
+        },
+        {
+            "Name": "Jelly",
+            "Id": 1101,
+            "Price": 4.46,
+            "Type": "Spreads",
+            "Stock": 130,
+            "Brand": "Fruit Fresh"
+        },
+        {
+            "Name": "Mayonnaise",
+            "Id": 1102,
+            "Price": 4.38,
+            "Type": "Condiments",
+            "Stock": 140,
+            "Brand": "Creamy Select"
+        },
+        {
+            "Name": "Ketchup",
+            "Id": 1103,
+            "Price": 2.85,
+            "Type": "Condiments",
+            "Stock": 160,
+            "Brand": "Tomato Pure"
+        },
+        {
+            "Name": "Mustard",
+            "Id": 1104,
+            "Price": 2.77,
+            "Type": "Condiments",
+            "Stock": 150,
+            "Brand": "Golden Classic"
+        },
+        {
+            "Name": "Pickles",
+            "Id": 1105,
+            "Price": 4.36,
+            "Type": "Condiments",
+            "Stock": 120,
+            "Brand": "Crunchy Harvest"
+        },
+        {
+            "Name": "Relish",
+            "Id": 1106,
+            "Price": 2.54,
+            "Type": "Condiments",
+            "Stock": 130,
+            "Brand": "Tangy Delight"
+        },
+        {
+            "Name": "Cornmeal",
+            "Id": 1107,
+            "Price": 3.61,
+            "Type": "Baking",
+            "Stock": 140,
+            "Brand": "Golden Maize"
+        },
+        {
+            "Name": "Lentil Soup",
+            "Id": 1108,
+            "Price": 5.07,
+            "Type": "Canned Goods",
+            "Stock": 100,
+            "Brand": "Healthy Choice"
+        },
+        {
+            "Name": "Macaroni",
+            "Id": 1109,
+            "Price": 2.68,
+            "Type": "Grains",
+            "Stock": 180,
+            "Brand": "Italiano"
+        },
+        {
+            "Name": "Instant Oatmeal",
+            "Id": 1110,
+            "Price": 3.63,
+            "Type": "Breakfast",
+            "Stock": 120,
+            "Brand": "Healthy Start"
+        },
+        {
+            "Name": "Granola",
+            "Id": 1111,
+            "Price": 4.89,
+            "Type": "Breakfast",
+            "Stock": 140,
+            "Brand": "Crunchy Goodness"
+        },
+        {
+            "Name": "Frozen Mixed Vegetables",
+            "Id": 1112,
+            "Price": 4.89,
+            "Type": "Frozen",
+            "Stock": 110,
+            "Brand": "Nature's Best"
+        },
+        {
+            "Name": "Frozen Berries",
+            "Id": 1113,
+            "Price": 5.7,
+            "Type": "Frozen",
+            "Stock": 100,
+            "Brand": "Berry Fresh"
+        },
+        {
+            "Name": "Frozen Pizza",
+            "Id": 1114,
+            "Price": 7.21,
+            "Type": "Frozen",
+            "Stock": 90,
+            "Brand": "Quick Bite"
+        },
+        {
+            "Name": "Ice Cream",
+            "Id": 1115,
+            "Price": 4.93,
+            "Type": "Frozen",
+            "Stock": 130,
+            "Brand": "Sweet Treats"
+        },
+        {
+            "Name": "Lemon",
+            "Id": 1116,
+            "Price": 0.99,
+            "Type": "Fruit",
+            "Stock": 300,
+            "Brand": "Citrus Fresh"
+        },
+        {
+            "Name": "Lime",
+            "Id": 1117,
+            "Price": 0.55,
+            "Type": "Fruit",
+            "Stock": 320,
+            "Brand": "Citrus Fresh"
+        },
+        {
+            "Name": "Oranges",
+            "Id": 1118,
+            "Price": 1.02,
+            "Type": "Fruit",
+            "Stock": 250,
+            "Brand": "Sun Kissed"
+        },
+        {
+            "Name": "Grapes",
+            "Id": 1119,
+            "Price": 3.51,
+            "Type": "Fruit",
+            "Stock": 180,
+            "Brand": "Vine Harvest"
+        },
+        {
+            "Name": "Strawberries",
+            "Id": 1120,
+            "Price": 3.81,
+            "Type": "Fruit",
+            "Stock": 140,
+            "Brand": "Berry Farm"
+        },
+        {
+            "Name": "Blueberries",
+            "Id": 1121,
+            "Price": 5.0,
+            "Type": "Fruit",
+            "Stock": 120,
+            "Brand": "Berry Farm"
+        },
+        {
+            "Name": "Coconut Water",
+            "Id": 1122,
+            "Price": 4.02,
+            "Type": "Beverage",
+            "Stock": 110,
+            "Brand": "Tropical Hydration"
+        },
+        {
+            "Name": "Green Tea",
+            "Id": 1123,
+            "Price": 4.23,
+            "Type": "Beverage",
+            "Stock": 130,
+            "Brand": "Tea Masters"
+        },
+        {
+            "Name": "Coffee Beans",
+            "Id": 1124,
+            "Price": 9.93,
+            "Type": "Beverage",
+            "Stock": 90,
+            "Brand": "Morning Roast"
+        },
+        {
+            "Name": "Cereal",
+            "Id": 1125,
+            "Price": 4.53,
+            "Type": "Breakfast",
+            "Stock": 160,
+            "Brand": "Morning Crunch"
+        },
+        {
+            "Name": "Soy Milk",
+            "Id": 1126,
+            "Price": 3.51,
+            "Type": "Dairy Alternative",
+            "Stock": 110,
+            "Brand": "Healthy Choice"
+        },
+        {
+            "Name": "Chia Seeds",
+            "Id": 1127,
+            "Price": 5.65,
+            "Type": "Superfoods",
+            "Stock": 100,
+            "Brand": "Organic Power"
+        },
+        {
+            "Name": "Quinoa",
+            "Id": 1128,
+            "Price": 5.95,
+            "Type": "Grains",
+            "Stock": 110,
+            "Brand": "Healthy Harvest"
+        },
+        {
+            "Name": "Sunflower Seeds",
+            "Id": 1129,
+            "Price": 3.05,
+            "Type": "Nuts",
+            "Stock": 150,
+            "Brand": "Crunchy Goodness"
+        },
+        {
+            "Name": "Raisins",
+            "Id": 1130,
+            "Price": 4.02,
+            "Type": "Dried Fruit",
+            "Stock": 120,
+            "Brand": "Sun Harvest"
+        },
+        {
+            "Name": "Cranberries",
+            "Id": 1131,
+            "Price": 4.97,
+            "Type": "Dried Fruit",
+            "Stock": 130,
+            "Brand": "Berry Delight"
+        },
+        {
+            "Name": "Coconut Flakes",
+            "Id": 1132,
+            "Price": 2.91,
+            "Type": "Baking",
+            "Stock": 110,
+            "Brand": "Tropical Taste"
+        },
+        {
+            "Name": "Almond Milk",
+            "Id": 1133,
+            "Price": 4.83,
+            "Type": "Dairy Alternative",
+            "Stock": 100,
+            "Brand": "Nutty Delight"
+        },
+        {
+            "Name": "Swiss Cheese",
+            "Id": 1134,
+            "Price": 3.02,
+            "Type": "Dairy",
+            "Stock": 180,
+            "Brand": "Cheese Co."
+        },
+        {
+            "Name": "Onion Rings",
+            "Id": 1135,
+            "Price": 4.07,
+            "Type": "Frozen",
+            "Stock": 180,
+            "Brand": "Crispy Bites"
+        },
+        {
+            "Name": "Penne",
+            "Id": 1136,
+            "Price": 2.74,
+            "Type": "Grains",
+            "Stock": 200,
+            "Brand": "Italiano"
+        },
+        {
+            "Name": "Marinated Pork",
+            "Id": 1137,
+            "Price": 8.42,
+            "Type": "Meat",
+            "Stock": 150,
+            "Brand": "Prime Cuts"
+        },
+        {
+            "Name": "White Sauce",
+            "Id": 1138,
+            "Price": 3.17,
+            "Type": "Condiments",
+            "Stock": 150,
+            "Brand": "Creamy Delight"
+        },
+        {
+            "Name": "Shredded Beef",
+            "Id": 1139,
+            "Price": 6.51,
+            "Type": "Meat",
+            "Stock": 140,
+            "Brand": "Prime Cuts"
+        },
+        {
+            "Name": "Salsa",
+            "Id": 1140,
+            "Price": 2.45,
+            "Type": "Condiments",
+            "Stock": 160,
+            "Brand": "Fresh Fiesta"
+        },
+        {
+            "Name": "Green Curry Paste",
+            "Id": 1141,
+            "Price": 6.16,
+            "Type": "Condiments",
+            "Stock": 120,
+            "Brand": "Thai Essence"
+        },
+        {
+            "Name": "Lemongrass",
+            "Id": 1142,
+            "Price": 2.32,
+            "Type": "Herbs",
+            "Stock": 140,
+            "Brand": "Fresh Harvest"
+        },
+        {
+            "Name": "Chili Powder",
+            "Id": 1143,
+            "Price": 3.83,
+            "Type": "Spices",
+            "Stock": 150,
+            "Brand": "Spice World"
+        },
+        {
+            "Name": "Soy Sauce Broth",
+            "Id": 1144,
+            "Price": 4.37,
+            "Type": "Condiments",
+            "Stock": 130,
+            "Brand": "Asian Flavors"
+        },
+        {
+            "Name": "Green Onion",
+            "Id": 1145,
+            "Price": 1.41,
+            "Type": "Vegetable",
+            "Stock": 180,
+            "Brand": "Farm Fresh"
+        },
+        {
+            "Name": "Miso Broth",
+            "Id": 1146,
+            "Price": 3.15,
+            "Type": "Condiments",
+            "Stock": 110,
+            "Brand": "Japanese Essence"
+        },
+        {
+            "Name": "Bamboo Shoots",
+            "Id": 1147,
+            "Price": 4.09,
+            "Type": "Vegetable",
+            "Stock": 140,
+            "Brand": "Asian Harvest"
+        },
+        {
+            "Name": "Thick Noodles",
+            "Id": 1148,
+            "Price": 5.04,
+            "Type": "Grains",
+            "Stock": 160,
+            "Brand": "Noodle Masters"
+        },
+        {
+            "Name": "Dipping Broth",
+            "Id": 1149,
+            "Price": 4.65,
+            "Type": "Condiments",
+            "Stock": 100,
+            "Brand": "Japanese Essence"
+        },
+        {
+            "Name": "Chashu Pork",
+            "Id": 1150,
+            "Price": 9.95,
+            "Type": "Meat",
+            "Stock": 130,
+            "Brand": "Prime Cuts"
+        },
+        {
+            "Name": "Sesame Seeds",
+            "Id": 1151,
+            "Price": 3.15,
+            "Type": "Spices",
+            "Stock": 170,
+            "Brand": "Nutty Delights"
+        },
+        {
+            "Name": "Yellowtail",
+            "Id": 1152,
+            "Price": 9.0,
+            "Type": "Seafood",
+            "Stock": 90,
+            "Brand": "Ocean Fresh"
+        }
+    ]},
+    {
+        "Name": "Shoprite",
+        "Inventory":[
+        {
+            "Name": "Apple",
+            "Id": 1001,
+            "Price": 0.99,
+            "Type": "Fruit",
+            "Stock": 250,
+            "Brand": "Fresh Farms"
+        },
+        {
+            "Name": "Banana",
+            "Id": 1002,
+            "Price": 0.59,
+            "Type": "Fruit",
+            "Stock": 300,
+            "Brand": "Tropical Harvest"
+        },
+        {
+            "Name": "Carrot",
+            "Id": 1003,
+            "Price": 1.29,
+            "Type": "Vegetable",
+            "Stock": 200,
+            "Brand": "Organic Growers"
+        },
+        {
+            "Name": "Broccoli",
+            "Id": 1004,
+            "Price": 2.49,
+            "Type": "Vegetable",
+            "Stock": 150,
+            "Brand": "Green Valley"
+        },
+        {
+            "Name": "Tomato",
+            "Id": 1005,
+            "Price": 1.99,
+            "Type": "Vegetable",
+            "Stock": 220,
+            "Brand": "Sun Fresh"
+        },
+        {
+            "Name": "Onion",
+            "Id": 1006,
+            "Price": 1.49,
+            "Type": "Vegetable",
+            "Stock": 210,
+            "Brand": "Farmers Best"
+        },
+        {
+            "Name": "Garlic",
+            "Id": 1007,
+            "Price": 0.99,
+            "Type": "Vegetable",
+            "Stock": 180,
+            "Brand": "Pure Harvest"
+        },
+        {
+            "Name": "Chicken Breast",
+            "Id": 1008,
+            "Price": 5.99,
+            "Type": "Meat",
+            "Stock": 100,
+            "Brand": "Farm Fresh"
+        },
+        {
+            "Name": "Ground Beef",
+            "Id": 1009,
+            "Price": 6.49,
+            "Type": "Meat",
+            "Stock": 120,
+            "Brand": "Prime Cuts"
+        },
+        {
+            "Name": "Salmon",
+            "Id": 1010,
+            "Price": 8.99,
+            "Type": "Seafood",
+            "Stock": 90,
+            "Brand": "Ocean Catch"
+        },
+        {
+            "Name": "Milk",
+            "Id": 1011,
+            "Price": 3.29,
+            "Type": "Dairy",
+            "Stock": 180,
+            "Brand": "Dairyland"
+        },
+        {
+            "Name": "Cheddar Cheese",
+            "Id": 1012,
+            "Price": 4.99,
+            "Type": "Dairy",
+            "Stock": 140,
+            "Brand": "Cheese Co."
+        },
+        {
+            "Name": "Eggs",
+            "Id": 1013,
+            "Price": 2.79,
+            "Type": "Dairy",
+            "Stock": 220,
+            "Brand": "Golden Egg Farms"
+        },
+        {
+            "Name": "Butter",
+            "Id": 1014,
+            "Price": 3.49,
+            "Type": "Dairy",
+            "Stock": 150,
+            "Brand": "Creamy Delight"
+        },
+        {
+            "Name": "Flour",
+            "Id": 1015,
+            "Price": 2.99,
+            "Type": "Baking",
+            "Stock": 180,
+            "Brand": "Golden Wheat"
+        },
+        {
+            "Name": "Sugar",
+            "Id": 1016,
+            "Price": 3.49,
+            "Type": "Baking",
+            "Stock": 110,
+            "Brand": "Sweet Source"
+        },
+        {
+            "Name": "Salt",
+            "Id": 1017,
+            "Price": 1.99,
+            "Type": "Baking",
+            "Stock": 200,
+            "Brand": "Sea Harvest"
+        },
+        {
+            "Name": "Rice",
+            "Id": 1018,
+            "Price": 8.99,
+            "Type": "Grains",
+            "Stock": 90,
+            "Brand": "Nature's Grain"
+        },
+        {
+            "Name": "Pasta",
+            "Id": 1019,
+            "Price": 2.99,
+            "Type": "Grains",
+            "Stock": 130,
+            "Brand": "Italiano"
+        },
+        {
+            "Name": "Olive Oil",
+            "Id": 1020,
+            "Price": 9.99,
+            "Type": "Condiments",
+            "Stock": 80,
+            "Brand": "Mediterranean Pure"
+        },
+        {
+            "Name": "Vegetable Oil",
+            "Id": 1021,
+            "Price": 6.99,
+            "Type": "Condiments",
+            "Stock": 100,
+            "Brand": "Daily Cooking"
+        },
+        {
+            "Name": "Vinegar",
+            "Id": 1022,
+            "Price": 2.49,
+            "Type": "Condiments",
+            "Stock": 120,
+            "Brand": "Pure Taste"
+        },
+        {
+            "Name": "Soy Sauce",
+            "Id": 1023,
+            "Price": 3.99,
+            "Type": "Condiments",
+            "Stock": 140,
+            "Brand": "Asian Flavors"
+        },
+        {
+            "Name": "Tomato Sauce",
+            "Id": 1024,
+            "Price": 2.99,
+            "Type": "Condiments",
+            "Stock": 150,
+            "Brand": "Homestyle"
+        },
+        {
+            "Name": "Canned Beans",
+            "Id": 1025,
+            "Price": 1.79,
+            "Type": "Canned Goods",
+            "Stock": 200,
+            "Brand": "Healthy Choice"
+        },
+        {
+            "Name": "Canned Corn",
+            "Id": 1026,
+            "Price": 1.49,
+            "Type": "Canned Goods",
+            "Stock": 180,
+            "Brand": "Golden Harvest"
+        },
+        {
+            "Name": "Canned Tuna",
+            "Id": 1027,
+            "Price": 2.99,
+            "Type": "Canned Goods",
+            "Stock": 140,
+            "Brand": "Ocean Fresh"
+        },
+        {
+            "Name": "Chicken Broth",
+            "Id": 1028,
+            "Price": 3.99,
+            "Type": "Canned Goods",
+            "Stock": 130,
+            "Brand": "Savory Select"
+        },
+        {
+            "Name": "Beef Broth",
+            "Id": 1029,
+            "Price": 3.99,
+            "Type": "Canned Goods",
+            "Stock": 120,
+            "Brand": "Savory Select"
+        },
+        {
+            "Name": "Lentils",
+            "Id": 1030,
+            "Price": 2.49,
+            "Type": "Legumes",
+            "Stock": 160,
+            "Brand": "Green Harvest"
+        },
+        {
+            "Name": "Chickpeas",
+            "Id": 1031,
+            "Price": 2.49,
+            "Type": "Legumes",
+            "Stock": 170,
+            "Brand": "Nutri Pulse"
+        },
+        {
+            "Name": "Oats",
+            "Id": 1032,
+            "Price": 3.29,
+            "Type": "Grains",
+            "Stock": 110,
+            "Brand": "Healthy Start"
+        },
+        {
+            "Name": "Almonds",
+            "Id": 1033,
+            "Price": 7.99,
+            "Type": "Nuts",
+            "Stock": 90,
+            "Brand": "Nutty Delight"
+        },
+        {
+            "Name": "Peanuts",
+            "Id": 1034,
+            "Price": 5.99,
+            "Type": "Nuts",
+            "Stock": 100,
+            "Brand": "Crunchy Goodness"
+        },
+        {
+            "Name": "Honey",
+            "Id": 1035,
+            "Price": 6.99,
+            "Type": "Condiments",
+            "Stock": 100,
+            "Brand": "Nature's Gold"
+        },
+        {
+            "Name": "Cinnamon",
+            "Id": 1036,
+            "Price": 2.99,
+            "Type": "Spices",
+            "Stock": 140,
+            "Brand": "Spice World"
+        },
+        {
+            "Name": "Black Pepper",
+            "Id": 1037,
+            "Price": 3.49,
+            "Type": "Spices",
+            "Stock": 150,
+            "Brand": "Spice World"
+        },
+        {
+            "Name": "Cumin",
+            "Id": 1038,
+            "Price": 2.49,
+            "Type": "Spices",
+            "Stock": 160,
+            "Brand": "Spice World"
+        },
+        {
+            "Name": "Paprika",
+            "Id": 1039,
+            "Price": 2.49,
+            "Type": "Spices",
+            "Stock": 170,
+            "Brand": "Spice World"
+        },
+        {
+            "Name": "Basil",
+            "Id": 1040,
+            "Price": 2.29,
+            "Type": "Spices",
+            "Stock": 180,
+            "Brand": "Spice World"
+        },
+        {
+            "Name": "Parsley",
+            "Id": 1041,
+            "Price": 2.29,
+            "Type": "Spices",
+            "Stock": 190,
+            "Brand": "Spice World"
+        },
+        {
+            "Name": "Mushrooms",
+            "Id": 1042,
+            "Price": 3.99,
+            "Type": "Vegetable",
+            "Stock": 140,
+            "Brand": "Forest Fresh"
+        },
+        {
+            "Name": "Bell Peppers",
+            "Id": 1043,
+            "Price": 2.99,
+            "Type": "Vegetable",
+            "Stock": 150,
+            "Brand": "Color Harvest"
+        },
+        {
+            "Name": "Zucchini",
+            "Id": 1044,
+            "Price": 2.49,
+            "Type": "Vegetable",
+            "Stock": 160,
+            "Brand": "Garden Fresh"
+        },
+        {
+            "Name": "Potatoes",
+            "Id": 1045,
+            "Price": 3.99,
+            "Type": "Vegetable",
+            "Stock": 200,
+            "Brand": "Earth Bounty"
+        },
+        {
+            "Name": "Sweet Potatoes",
+            "Id": 1046,
+            "Price": 3.99,
+            "Type": "Vegetable",
+            "Stock": 180,
+            "Brand": "Earth Bounty"
+        },
+        {
+            "Name": "Yogurt",
+            "Id": 1047,
+            "Price": 4.99,
+            "Type": "Dairy",
+            "Stock": 120,
+            "Brand": "Creamy Bliss"
+        },
+        {
+            "Name": "Dough",
+            "Id": 1048,
+            "Price": 2.99,
+            "Type": "Baking",
+            "Stock": 150,
+            "Brand": "Golden Wheat"
+        },
+        {
+            "Name": "Mozzarella Cheese",
+            "Id": 1049,
+            "Price": 3.49,
+            "Type": "Dairy",
+            "Stock": 180,
+            "Brand": "Cheese Co."
+        },
+        {
+            "Name": "Pepperoni",
+            "Id": 1050,
+            "Price": 4.99,
+            "Type": "Meat",
+            "Stock": 120,
+            "Brand": "Prime Cuts"
+        },
+        {
+            "Name": "BBQ Sauce",
+            "Id": 1051,
+            "Price": 3.99,
+            "Type": "Condiments",
+            "Stock": 140,
+            "Brand": "Sweet BBQ"
+        },
+        {
+            "Name": "Chicken",
+            "Id": 1052,
+            "Price": 5.99,
+            "Type": "Meat",
+            "Stock": 130,
+            "Brand": "Farm Fresh"
+        },
+        {
+            "Name": "Red Onion",
+            "Id": 1053,
+            "Price": 1.49,
+            "Type": "Vegetable",
+            "Stock": 150,
+            "Brand": "Farmers Best"
+        },
+        {
+            "Name": "Ricotta Cheese",
+            "Id": 1054,
+            "Price": 4.99,
+            "Type": "Dairy",
+            "Stock": 110,
+            "Brand": "Creamy Delight"
+        },
+        {
+            "Name": "Parmesan Cheese",
+            "Id": 1055,
+            "Price": 5.49,
+            "Type": "Dairy",
+            "Stock": 100,
+            "Brand": "Cheese Co."
+        },
+        {
+            "Name": "Beef Patty",
+            "Id": 1056,
+            "Price": 6.99,
+            "Type": "Meat",
+            "Stock": 140,
+            "Brand": "Prime Cuts"
+        },
+        {
+            "Name": "Burger Bun",
+            "Id": 1057,
+            "Price": 2.49,
+            "Type": "Baking",
+            "Stock": 160,
+            "Brand": "Golden Wheat"
+        },
+        {
+            "Name": "Lettuce",
+            "Id": 1058,
+            "Price": 1.99,
+            "Type": "Vegetable",
+            "Stock": 170,
+            "Brand": "Green Valley"
+        },
+        {
+            "Name": "Bacon",
+            "Id": 1059,
+            "Price": 5.49,
+            "Type": "Meat",
+            "Stock": 120,
+            "Brand": "Prime Cuts"
+        },
+        {
+            "Name": "Veggie Patty",
+            "Id": 1060,
+            "Price": 5.99,
+            "Type": "Vegetarian",
+            "Stock": 110,
+            "Brand": "Green Harvest"
+        },
+        {
+            "Name": "Spaghetti",
+            "Id": 1061,
+            "Price": 2.99,
+            "Type": "Grains",
+            "Stock": 180,
+            "Brand": "Italiano"
+        },
+        {
+            "Name": "Pancetta",
+            "Id": 1062,
+            "Price": 6.49,
+            "Type": "Meat",
+            "Stock": 120,
+            "Brand": "Prime Cuts"
+        },
+        {
+            "Name": "Fettuccine",
+            "Id": 1063,
+            "Price": 2.99,
+            "Type": "Grains",
+            "Stock": 150,
+            "Brand": "Italiano"
+        },
+        {
+            "Name": "Heavy Cream",
+            "Id": 1064,
+            "Price": 3.99,
+            "Type": "Dairy",
+            "Stock": 140,
+            "Brand": "Dairyland"
+        },
+        {
+            "Name": "Lasagna Sheets",
+            "Id": 1065,
+            "Price": 3.99,
+            "Type": "Grains",
+            "Stock": 130,
+            "Brand": "Italiano"
+        },
+        {
+            "Name": "Pasta Dough",
+            "Id": 1066,
+            "Price": 2.99,
+            "Type": "Baking",
+            "Stock": 110,
+            "Brand": "Golden Wheat"
+        },
+        {
+            "Name": "Vodka",
+            "Id": 1067,
+            "Price": 9.99,
+            "Type": "Beverage",
+            "Stock": 90,
+            "Brand": "Premium Spirits"
+        },
+        {
+            "Name": "Corn Tortilla",
+            "Id": 1068,
+            "Price": 2.49,
+            "Type": "Grains",
+            "Stock": 180,
+            "Brand": "Mexi-Maize"
+        },
+        {
+            "Name": "Grilled Steak",
+            "Id": 1069,
+            "Price": 7.99,
+            "Type": "Meat",
+            "Stock": 100,
+            "Brand": "Prime Cuts"
+        },
+        {
+            "Name": "Cilantro",
+            "Id": 1070,
+            "Price": 1.99,
+            "Type": "Herbs",
+            "Stock": 170,
+            "Brand": "Spice World"
+        },
+        {
+            "Name": "Pineapple",
+            "Id": 1071,
+            "Price": 3.99,
+            "Type": "Fruit",
+            "Stock": 90,
+            "Brand": "Tropical Harvest"
+        },
+        {
+            "Name": "Fried Fish",
+            "Id": 1072,
+            "Price": 8.99,
+            "Type": "Seafood",
+            "Stock": 80,
+            "Brand": "Ocean Catch"
+        },
+        {
+            "Name": "Cabbage Slaw",
+            "Id": 1073,
+            "Price": 2.99,
+            "Type": "Vegetable",
+            "Stock": 120,
+            "Brand": "Farmers Best"
+        },
+        {
+            "Name": "Slow-Cooked Pork",
+            "Id": 1074,
+            "Price": 6.99,
+            "Type": "Meat",
+            "Stock": 110,
+            "Brand": "Prime Cuts"
+        },
+        {
+            "Name": "Curry Powder",
+            "Id": 1075,
+            "Price": 2.99,
+            "Type": "Spices",
+            "Stock": 140,
+            "Brand": "Spice World"
+        },
+        {
+            "Name": "Coconut Milk",
+            "Id": 1076,
+            "Price": 4.99,
+            "Type": "Condiments",
+            "Stock": 100,
+            "Brand": "Tropical Harvest"
+        },
+        {
+            "Name": "Curry Roux",
+            "Id": 1077,
+            "Price": 5.99,
+            "Type": "Condiments",
+            "Stock": 90,
+            "Brand": "Japanese Delight"
+        },
+        {
+            "Name": "Garam Masala",
+            "Id": 10978,
+            "Price": 3.99,
+            "Type": "Spices",
+            "Stock": 130,
+            "Brand": "Spice World"
+        },
+        {
+            "Name": "Ramen Noodles",
+            "Id": 1079,
+            "Price": 3.49,
+            "Type": "Grains",
+            "Stock": 180,
+            "Brand": "Noodle Masters"
+        },
+        {
+            "Name": "Pork Bone Broth",
+            "Id": 1080,
+            "Price": 7.99,
+            "Type": "Soup",
+            "Stock": 90,
+            "Brand": "Savory Select"
+        },
+        {
+            "Name": "Tofu",
+            "Id": 1081,
+            "Price": 3.49,
+            "Type": "Vegetarian",
+            "Stock": 120,
+            "Brand": "Healthy Choice"
+        },
+        {
+            "Name": "Salt Broth",
+            "Id": 1082,
+            "Price": 6.49,
+            "Type": "Soup",
+            "Stock": 100,
+            "Brand": "Savory Select"
+        },
+        {
+            "Name": "Sushi Rice",
+            "Id": 1083,
+            "Price": 4.49,
+            "Type": "Grains",
+            "Stock": 140,
+            "Brand": "Asian Flavors"
+        },
+        {
+            "Name": "Tuna",
+            "Id": 1084,
+            "Price": 8.99,
+            "Type": "Seafood",
+            "Stock": 90,
+            "Brand": "Ocean Catch"
+        },
+        {
+            "Name": "Spicy Mayo",
+            "Id": 1085,
+            "Price": 2.99,
+            "Type": "Condiments",
+            "Stock": 130,
+            "Brand": "Asian Flavors"
+        },
+        {
+            "Name": "Crab Stick",
+            "Id": 1086,
+            "Price": 5.99,
+            "Type": "Seafood",
+            "Stock": 100,
+            "Brand": "Ocean Catch"
+        },
+        {
+            "Name": "Avocado",
+            "Id": 1087,
+            "Price": 2.99,
+            "Type": "Fruit",
+            "Stock": 150,
+            "Brand": "Tropical Harvest"
+        },
+        {
+            "Name": "Cucumber",
+            "Id": 1088,
+            "Price": 1.99,
+            "Type": "Vegetable",
+            "Stock": 160,
+            "Brand": "Green Valley"
+        },
+        {
+            "Name": "Nori",
+            "Id": 1089,
+            "Price": 4.99,
+            "Type": "Condiments",
+            "Stock": 110,
+            "Brand": "Japanese Delight"
+        },
+        {
+            "Name": "Eel",
+            "Id": 1090,
+            "Price": 9.99,
+            "Type": "Seafood",
+            "Stock": 80,
+            "Brand": "Ocean Catch"
+        },
+        {
+            "Name": "Cream Cheese",
+            "Id": 1091,
+            "Price": 3.49,
+            "Type": "Dairy",
+            "Stock": 120,
+            "Brand": "Cheese Co."
+        },
+        {
+            "Name": "Whole Wheat Bread",
+            "Id": 1092,
+            "Price": 2.99,
+            "Type": "Bakery",
+            "Stock": 200,
+            "Brand": "Healthy Grains"
+        },
+        {
+            "Name": "White Bread",
+            "Id": 1093,
+            "Price": 2.49,
+            "Type": "Bakery",
+            "Stock": 220,
+            "Brand": "Golden Loaf"
+        },
+        {
+            "Name": "Brown Sugar",
+            "Id": 1094,
+            "Price": 3.49,
+            "Type": "Baking",
+            "Stock": 150,
+            "Brand": "Sweet Source"
+        },
+        {
+            "Name": "Baking Powder",
+            "Id": 1095,
+            "Price": 2.99,
+            "Type": "Baking",
+            "Stock": 140,
+            "Brand": "Baker's Best"
+        },
+        {
+            "Name": "Baking Soda",
+            "Id": 1096,
+            "Price": 1.99,
+            "Type": "Baking",
+            "Stock": 160,
+            "Brand": "Pure Essentials"
+        },
+        {
+            "Name": "Yeast",
+            "Id": 1097,
+            "Price": 2.49,
+            "Type": "Baking",
+            "Stock": 130,
+            "Brand": "Rise & Bake"
+        },
+        {
+            "Name": "Vanilla Extract",
+            "Id": 1098,
+            "Price": 5.99,
+            "Type": "Baking",
+            "Stock": 100,
+            "Brand": "Pure Essence"
+        },
+        {
+            "Name": "Chocolate Chips",
+            "Id": 1099,
+            "Price": 4.99,
+            "Type": "Baking",
+            "Stock": 110,
+            "Brand": "Sweet Treats"
+        },
+        {
+            "Name": "Peanut Butter",
+            "Id": 1100,
+            "Price": 6.99,
+            "Type": "Spreads",
+            "Stock": 120,
+            "Brand": "Nutty Delight"
+        },
+        {
+            "Name": "Jelly",
+            "Id": 1101,
+            "Price": 3.99,
+            "Type": "Spreads",
+            "Stock": 130,
+            "Brand": "Fruit Fresh"
+        },
+        {
+            "Name": "Mayonnaise",
+            "Id": 1102,
+            "Price": 4.49,
+            "Type": "Condiments",
+            "Stock": 140,
+            "Brand": "Creamy Select"
+        },
+        {
+            "Name": "Ketchup",
+            "Id": 1103,
+            "Price": 3.29,
+            "Type": "Condiments",
+            "Stock": 160,
+            "Brand": "Tomato Pure"
+        },
+        {
+            "Name": "Mustard",
+            "Id": 1104,
+            "Price": 2.79,
+            "Type": "Condiments",
+            "Stock": 150,
+            "Brand": "Golden Classic"
+        },
+        {
+            "Name": "Pickles",
+            "Id": 1105,
+            "Price": 3.99,
+            "Type": "Condiments",
+            "Stock": 120,
+            "Brand": "Crunchy Harvest"
+        },
+        {
+            "Name": "Relish",
+            "Id": 1106,
+            "Price": 2.99,
+            "Type": "Condiments",
+            "Stock": 130,
+            "Brand": "Tangy Delight"
+        },
+        {
+            "Name": "Cornmeal",
+            "Id": 1107,
+            "Price": 3.49,
+            "Type": "Baking",
+            "Stock": 140,
+            "Brand": "Golden Maize"
+        },
+        {
+            "Name": "Lentil Soup",
+            "Id": 1108,
+            "Price": 4.99,
+            "Type": "Canned Goods",
+            "Stock": 100,
+            "Brand": "Healthy Choice"
+        },
+        {
+            "Name": "Macaroni",
+            "Id": 1109,
+            "Price": 2.99,
+            "Type": "Grains",
+            "Stock": 180,
+            "Brand": "Italiano"
+        },
+        {
+            "Name": "Instant Oatmeal",
+            "Id": 1110,
+            "Price": 3.79,
+            "Type": "Breakfast",
+            "Stock": 120,
+            "Brand": "Healthy Start"
+        },
+        {
+            "Name": "Granola",
+            "Id": 1111,
+            "Price": 4.99,
+            "Type": "Breakfast",
+            "Stock": 140,
+            "Brand": "Crunchy Goodness"
+        },
+        {
+            "Name": "Frozen Mixed Vegetables",
+            "Id": 1112,
+            "Price": 5.99,
+            "Type": "Frozen",
+            "Stock": 110,
+            "Brand": "Nature's Best"
+        },
+        {
+            "Name": "Frozen Berries",
+            "Id": 1113,
+            "Price": 6.99,
+            "Type": "Frozen",
+            "Stock": 100,
+            "Brand": "Berry Fresh"
+        },
+        {
+            "Name": "Frozen Pizza",
+            "Id": 1114,
+            "Price": 7.99,
+            "Type": "Frozen",
+            "Stock": 90,
+            "Brand": "Quick Bite"
+        },
+        {
+            "Name": "Ice Cream",
+            "Id": 1115,
+            "Price": 5.99,
+            "Type": "Frozen",
+            "Stock": 130,
+            "Brand": "Sweet Treats"
+        },
+        {
+            "Name": "Lemon",
+            "Id": 1116,
+            "Price": 0.79,
+            "Type": "Fruit",
+            "Stock": 300,
+            "Brand": "Citrus Fresh"
+        },
+        {
+            "Name": "Lime",
+            "Id": 1117,
+            "Price": 0.69,
+            "Type": "Fruit",
+            "Stock": 320,
+            "Brand": "Citrus Fresh"
+        },
+        {
+            "Name": "Oranges",
+            "Id": 1118,
+            "Price": 1.29,
+            "Type": "Fruit",
+            "Stock": 250,
+            "Brand": "Sun Kissed"
+        },
+        {
+            "Name": "Grapes",
+            "Id": 1119,
+            "Price": 3.49,
+            "Type": "Fruit",
+            "Stock": 180,
+            "Brand": "Vine Harvest"
+        },
+        {
+            "Name": "Strawberries",
+            "Id": 1120,
+            "Price": 4.99,
+            "Type": "Fruit",
+            "Stock": 140,
+            "Brand": "Berry Farm"
+        },
+        {
+            "Name": "Blueberries",
+            "Id": 1121,
+            "Price": 5.49,
+            "Type": "Fruit",
+            "Stock": 120,
+            "Brand": "Berry Farm"
+        },
+        {
+            "Name": "Coconut Water",
+            "Id": 1122,
+            "Price": 3.99,
+            "Type": "Beverage",
+            "Stock": 110,
+            "Brand": "Tropical Hydration"
+        },
+        {
+            "Name": "Green Tea",
+            "Id": 1123,
+            "Price": 4.49,
+            "Type": "Beverage",
+            "Stock": 130,
+            "Brand": "Tea Masters"
+        },
+        {
+            "Name": "Coffee Beans",
+            "Id": 1124,
+            "Price": 7.99,
+            "Type": "Beverage",
+            "Stock": 90,
+            "Brand": "Morning Roast"
+        },
+        {
+            "Name": "Cereal",
+            "Id": 1125,
+            "Price": 4.99,
+            "Type": "Breakfast",
+            "Stock": 160,
+            "Brand": "Morning Crunch"
+        },
+        {
+            "Name": "Soy Milk",
+            "Id": 1126,
+            "Price": 4.99,
+            "Type": "Dairy Alternative",
+            "Stock": 110,
+            "Brand": "Healthy Choice"
+        },
+        {
+            "Name": "Chia Seeds",
+            "Id": 1127,
+            "Price": 5.99,
+            "Type": "Superfoods",
+            "Stock": 100,
+            "Brand": "Organic Power"
+        },
+        {
+            "Name": "Quinoa",
+            "Id": 1128,
+            "Price": 6.99,
+            "Type": "Grains",
+            "Stock": 110,
+            "Brand": "Healthy Harvest"
+        },
+        {
+            "Name": "Sunflower Seeds",
+            "Id": 1129,
+            "Price": 3.99,
+            "Type": "Nuts",
+            "Stock": 150,
+            "Brand": "Crunchy Goodness"
+        },
+        {
+            "Name": "Raisins",
+            "Id": 1130,
+            "Price": 4.29,
+            "Type": "Dried Fruit",
+            "Stock": 120,
+            "Brand": "Sun Harvest"
+        },
+        {
+            "Name": "Cranberries",
+            "Id": 1131,
+            "Price": 4.49,
+            "Type": "Dried Fruit",
+            "Stock": 130,
+            "Brand": "Berry Delight"
+        },
+        {
+            "Name": "Coconut Flakes",
+            "Id": 1132,
+            "Price": 3.99,
+            "Type": "Baking",
+            "Stock": 110,
+            "Brand": "Tropical Taste"
+        },
+        {
+            "Name": "Almond Milk",
+            "Id": 1133,
+            "Price": 5.99,
+            "Type": "Dairy Alternative",
+            "Stock": 100,
+            "Brand": "Nutty Delight"
+        },
+        {
+            "Name": "Swiss Cheese",
+            "Id": 1134,
+            "Price": 3.49,
+            "Type": "Dairy",
+            "Stock": 180,
+            "Brand": "Cheese Co."
+        },
+        {
+            "Name": "Onion Rings",
+            "Id": 1135,
+            "Price": 5.49,
+            "Type": "Frozen",
+            "Stock": 180,
+            "Brand": "Crispy Bites"
+        },
+        {
+            "Name": "Penne",
+            "Id": 1136,
+            "Price": 2.99,
+            "Type": "Grains",
+            "Stock": 200,
+            "Brand": "Italiano"
+        },
+        {
+            "Name": "Marinated Pork",
+            "Id": 1137,
+            "Price": 7.99,
+            "Type": "Meat",
+            "Stock": 150,
+            "Brand": "Prime Cuts"
+        },
+        {
+            "Name": "White Sauce",
+            "Id": 1138,
+            "Price": 3.99,
+            "Type": "Condiments",
+            "Stock": 150,
+            "Brand": "Creamy Delight"
+        },
+        {
+            "Name": "Shredded Beef",
+            "Id": 1139,
+            "Price": 8.49,
+            "Type": "Meat",
+            "Stock": 140,
+            "Brand": "Prime Cuts"
+        },
+        {
+            "Name": "Salsa",
+            "Id": 1140,
+            "Price": 3.49,
+            "Type": "Condiments",
+            "Stock": 160,
+            "Brand": "Fresh Fiesta"
+        },
+        {
+            "Name": "Green Curry Paste",
+            "Id": 1141,
+            "Price": 4.99,
+            "Type": "Condiments",
+            "Stock": 120,
+            "Brand": "Thai Essence"
+        },
+        {
+            "Name": "Lemongrass",
+            "Id": 1142,
+            "Price": 2.49,
+            "Type": "Herbs",
+            "Stock": 140,
+            "Brand": "Fresh Harvest"
+        },
+        {
+            "Name": "Chili Powder",
+            "Id": 1143,
+            "Price": 2.99,
+            "Type": "Spices",
+            "Stock": 150,
+            "Brand": "Spice World"
+        },
+        {
+            "Name": "Soy Sauce Broth",
+            "Id": 1144,
+            "Price": 3.99,
+            "Type": "Condiments",
+            "Stock": 130,
+            "Brand": "Asian Flavors"
+        },
+        {
+            "Name": "Green Onion",
+            "Id": 1145,
+            "Price": 1.99,
+            "Type": "Vegetable",
+            "Stock": 180,
+            "Brand": "Farm Fresh"
+        },
+        {
+            "Name": "Miso Broth",
+            "Id": 1146,
+            "Price": 4.49,
+            "Type": "Condiments",
+            "Stock": 110,
+            "Brand": "Japanese Essence"
+        },
+        {
+            "Name": "Bamboo Shoots",
+            "Id": 1147,
+            "Price": 3.29,
+            "Type": "Vegetable",
+            "Stock": 140,
+            "Brand": "Asian Harvest"
+        },
+        {
+            "Name": "Thick Noodles",
+            "Id": 1148,
+            "Price": 3.99,
+            "Type": "Grains",
+            "Stock": 160,
+            "Brand": "Noodle Masters"
+        },
+        {
+            "Name": "Dipping Broth",
+            "Id": 1149,
+            "Price": 4.99,
+            "Type": "Condiments",
+            "Stock": 100,
+            "Brand": "Japanese Essence"
+        },
+        {
+            "Name": "Chashu Pork",
+            "Id": 1150,
+            "Price": 7.99,
+            "Type": "Meat",
+            "Stock": 130,
+            "Brand": "Prime Cuts"
+        },
+        {
+            "Name": "Sesame Seeds",
+            "Id": 1151,
+            "Price": 2.99,
+            "Type": "Spices",
+            "Stock": 170,
+            "Brand": "Nutty Delights"
+        },
+        {
+            "Name": "Yellowtail",
+            "Id": 1152,
+            "Price": 9.99,
+            "Type": "Seafood",
+            "Stock": 90,
+            "Brand": "Ocean Fresh"
+        }
+    ]},
+    {
+        "Name": "StopAndShop",
+        "Inventory":[
+        {
+            "Name": "Apple",
+            "Id": 1001,
+            "Price": 1.13,
+            "Type": "Fruit",
+            "Stock": 250,
+            "Brand": "Fresh Farms"
+        },
+        {
+            "Name": "Banana",
+            "Id": 1002,
+            "Price": 0.73,
+            "Type": "Fruit",
+            "Stock": 300,
+            "Brand": "Tropical Harvest"
+        },
+        {
+            "Name": "Carrot",
+            "Id": 1003,
+            "Price": 1.14,
+            "Type": "Vegetable",
+            "Stock": 200,
+            "Brand": "Organic Growers"
+        },
+        {
+            "Name": "Broccoli",
+            "Id": 1004,
+            "Price": 2.83,
+            "Type": "Vegetable",
+            "Stock": 150,
+            "Brand": "Green Valley"
+        },
+        {
+            "Name": "Tomato",
+            "Id": 1005,
+            "Price": 2.31,
+            "Type": "Vegetable",
+            "Stock": 220,
+            "Brand": "Sun Fresh"
+        },
+        {
+            "Name": "Onion",
+            "Id": 1006,
+            "Price": 1.65,
+            "Type": "Vegetable",
+            "Stock": 210,
+            "Brand": "Farmers Best"
+        },
+        {
+            "Name": "Garlic",
+            "Id": 1007,
+            "Price": 1.17,
+            "Type": "Vegetable",
+            "Stock": 180,
+            "Brand": "Pure Harvest"
+        },
+        {
+            "Name": "Chicken Breast",
+            "Id": 1008,
+            "Price": 4.83,
+            "Type": "Meat",
+            "Stock": 100,
+            "Brand": "Farm Fresh"
+        },
+        {
+            "Name": "Ground Beef",
+            "Id": 1009,
+            "Price": 7.12,
+            "Type": "Meat",
+            "Stock": 120,
+            "Brand": "Prime Cuts"
+        },
+        {
+            "Name": "Salmon",
+            "Id": 1010,
+            "Price": 11.57,
+            "Type": "Seafood",
+            "Stock": 90,
+            "Brand": "Ocean Catch"
+        },
+        {
+            "Name": "Milk",
+            "Id": 1011,
+            "Price": 4.06,
+            "Type": "Dairy",
+            "Stock": 180,
+            "Brand": "Dairyland"
+        },
+        {
+            "Name": "Cheddar Cheese",
+            "Id": 1012,
+            "Price": 6.39,
+            "Type": "Dairy",
+            "Stock": 140,
+            "Brand": "Cheese Co."
+        },
+        {
+            "Name": "Eggs",
+            "Id": 1013,
+            "Price": 2.35,
+            "Type": "Dairy",
+            "Stock": 220,
+            "Brand": "Golden Egg Farms"
+        },
+        {
+            "Name": "Butter",
+            "Id": 1014,
+            "Price": 4.32,
+            "Type": "Dairy",
+            "Stock": 150,
+            "Brand": "Creamy Delight"
+        },
+        {
+            "Name": "Flour",
+            "Id": 1015,
+            "Price": 2.78,
+            "Type": "Baking",
+            "Stock": 180,
+            "Brand": "Golden Wheat"
+        },
+        {
+            "Name": "Sugar",
+            "Id": 1016,
+            "Price": 4.17,
+            "Type": "Baking",
+            "Stock": 110,
+            "Brand": "Sweet Source"
+        },
+        {
+            "Name": "Salt",
+            "Id": 1017,
+            "Price": 1.54,
+            "Type": "Baking",
+            "Stock": 200,
+            "Brand": "Sea Harvest"
+        },
+        {
+            "Name": "Rice",
+            "Id": 1018,
+            "Price": 6.43,
+            "Type": "Grains",
+            "Stock": 90,
+            "Brand": "Nature's Grain"
+        },
+        {
+            "Name": "Pasta",
+            "Id": 1019,
+            "Price": 2.95,
+            "Type": "Grains",
+            "Stock": 130,
+            "Brand": "Italiano"
+        },
+        {
+            "Name": "Olive Oil",
+            "Id": 1020,
+            "Price": 10.4,
+            "Type": "Condiments",
+            "Stock": 80,
+            "Brand": "Mediterranean Pure"
+        },
+        {
+            "Name": "Vegetable Oil",
+            "Id": 1021,
+            "Price": 8.14,
+            "Type": "Condiments",
+            "Stock": 100,
+            "Brand": "Daily Cooking"
+        },
+        {
+            "Name": "Vinegar",
+            "Id": 1022,
+            "Price": 2.71,
+            "Type": "Condiments",
+            "Stock": 120,
+            "Brand": "Pure Taste"
+        },
+        {
+            "Name": "Soy Sauce",
+            "Id": 1023,
+            "Price": 3.58,
+            "Type": "Condiments",
+            "Stock": 140,
+            "Brand": "Asian Flavors"
+        },
+        {
+            "Name": "Tomato Sauce",
+            "Id": 1024,
+            "Price": 2.6,
+            "Type": "Condiments",
+            "Stock": 150,
+            "Brand": "Homestyle"
+        },
+        {
+            "Name": "Canned Beans",
+            "Id": 1025,
+            "Price": 1.65,
+            "Type": "Canned Goods",
+            "Stock": 200,
+            "Brand": "Healthy Choice"
+        },
+        {
+            "Name": "Canned Corn",
+            "Id": 1026,
+            "Price": 1.26,
+            "Type": "Canned Goods",
+            "Stock": 180,
+            "Brand": "Golden Harvest"
+        },
+        {
+            "Name": "Canned Tuna",
+            "Id": 1027,
+            "Price": 3.6,
+            "Type": "Canned Goods",
+            "Stock": 140,
+            "Brand": "Ocean Fresh"
+        },
+        {
+            "Name": "Chicken Broth",
+            "Id": 1028,
+            "Price": 2.88,
+            "Type": "Canned Goods",
+            "Stock": 130,
+            "Brand": "Savory Select"
+        },
+        {
+            "Name": "Beef Broth",
+            "Id": 1029,
+            "Price": 4.78,
+            "Type": "Canned Goods",
+            "Stock": 120,
+            "Brand": "Savory Select"
+        },
+        {
+            "Name": "Lentils",
+            "Id": 1030,
+            "Price": 1.87,
+            "Type": "Legumes",
+            "Stock": 160,
+            "Brand": "Green Harvest"
+        },
+        {
+            "Name": "Chickpeas",
+            "Id": 1031,
+            "Price": 1.99,
+            "Type": "Legumes",
+            "Stock": 170,
+            "Brand": "Nutri Pulse"
+        },
+        {
+            "Name": "Oats",
+            "Id": 1032,
+            "Price": 3.31,
+            "Type": "Grains",
+            "Stock": 110,
+            "Brand": "Healthy Start"
+        },
+        {
+            "Name": "Almonds",
+            "Id": 1033,
+            "Price": 9.71,
+            "Type": "Nuts",
+            "Stock": 90,
+            "Brand": "Nutty Delight"
+        },
+        {
+            "Name": "Peanuts",
+            "Id": 1034,
+            "Price": 6.82,
+            "Type": "Nuts",
+            "Stock": 100,
+            "Brand": "Crunchy Goodness"
+        },
+        {
+            "Name": "Honey",
+            "Id": 1035,
+            "Price": 5.62,
+            "Type": "Condiments",
+            "Stock": 100,
+            "Brand": "Nature's Gold"
+        },
+        {
+            "Name": "Cinnamon",
+            "Id": 1036,
+            "Price": 3.79,
+            "Type": "Spices",
+            "Stock": 140,
+            "Brand": "Spice World"
+        },
+        {
+            "Name": "Black Pepper",
+            "Id": 1037,
+            "Price": 2.57,
+            "Type": "Spices",
+            "Stock": 150,
+            "Brand": "Spice World"
+        },
+        {
+            "Name": "Cumin",
+            "Id": 1038,
+            "Price": 2.7,
+            "Type": "Spices",
+            "Stock": 160,
+            "Brand": "Spice World"
+        },
+        {
+            "Name": "Paprika",
+            "Id": 1039,
+            "Price": 3.02,
+            "Type": "Spices",
+            "Stock": 170,
+            "Brand": "Spice World"
+        },
+        {
+            "Name": "Basil",
+            "Id": 1040,
+            "Price": 2.8,
+            "Type": "Spices",
+            "Stock": 180,
+            "Brand": "Spice World"
+        },
+        {
+            "Name": "Parsley",
+            "Id": 1041,
+            "Price": 2.69,
+            "Type": "Spices",
+            "Stock": 190,
+            "Brand": "Spice World"
+        },
+        {
+            "Name": "Mushrooms",
+            "Id": 1042,
+            "Price": 3.27,
+            "Type": "Vegetable",
+            "Stock": 140,
+            "Brand": "Forest Fresh"
+        },
+        {
+            "Name": "Bell Peppers",
+            "Id": 1043,
+            "Price": 3.08,
+            "Type": "Vegetable",
+            "Stock": 150,
+            "Brand": "Color Harvest"
+        },
+        {
+            "Name": "Zucchini",
+            "Id": 1044,
+            "Price": 1.98,
+            "Type": "Vegetable",
+            "Stock": 160,
+            "Brand": "Garden Fresh"
+        },
+        {
+            "Name": "Potatoes",
+            "Id": 1045,
+            "Price": 3.13,
+            "Type": "Vegetable",
+            "Stock": 200,
+            "Brand": "Earth Bounty"
+        },
+        {
+            "Name": "Sweet Potatoes",
+            "Id": 1046,
+            "Price": 4.16,
+            "Type": "Vegetable",
+            "Stock": 180,
+            "Brand": "Earth Bounty"
+        },
+        {
+            "Name": "Yogurt",
+            "Id": 1047,
+            "Price": 6.09,
+            "Type": "Dairy",
+            "Stock": 120,
+            "Brand": "Creamy Bliss"
+        },
+        {
+            "Name": "Dough",
+            "Id": 1048,
+            "Price": 2.61,
+            "Type": "Baking",
+            "Stock": 150,
+            "Brand": "Golden Wheat"
+        },
+        {
+            "Name": "Mozzarella Cheese",
+            "Id": 1049,
+            "Price": 4.1,
+            "Type": "Dairy",
+            "Stock": 180,
+            "Brand": "Cheese Co."
+        },
+        {
+            "Name": "Pepperoni",
+            "Id": 1050,
+            "Price": 4.35,
+            "Type": "Meat",
+            "Stock": 120,
+            "Brand": "Prime Cuts"
+        },
+        {
+            "Name": "BBQ Sauce",
+            "Id": 1051,
+            "Price": 4.49,
+            "Type": "Condiments",
+            "Stock": 140,
+            "Brand": "Sweet BBQ"
+        },
+        {
+            "Name": "Chicken",
+            "Id": 1052,
+            "Price": 7.58,
+            "Type": "Meat",
+            "Stock": 130,
+            "Brand": "Farm Fresh"
+        },
+        {
+            "Name": "Red Onion",
+            "Id": 1053,
+            "Price": 1.92,
+            "Type": "Vegetable",
+            "Stock": 150,
+            "Brand": "Farmers Best"
+        },
+        {
+            "Name": "Ricotta Cheese",
+            "Id": 1054,
+            "Price": 3.89,
+            "Type": "Dairy",
+            "Stock": 110,
+            "Brand": "Creamy Delight"
+        },
+        {
+            "Name": "Parmesan Cheese",
+            "Id": 1055,
+            "Price": 5.8,
+            "Type": "Dairy",
+            "Stock": 100,
+            "Brand": "Cheese Co."
+        },
+        {
+            "Name": "Beef Patty",
+            "Id": 1056,
+            "Price": 6.53,
+            "Type": "Meat",
+            "Stock": 140,
+            "Brand": "Prime Cuts"
+        },
+        {
+            "Name": "Burger Bun",
+            "Id": 1057,
+            "Price": 3.23,
+            "Type": "Baking",
+            "Stock": 160,
+            "Brand": "Golden Wheat"
+        },
+        {
+            "Name": "Lettuce",
+            "Id": 1058,
+            "Price": 2.42,
+            "Type": "Vegetable",
+            "Stock": 170,
+            "Brand": "Green Valley"
+        },
+        {
+            "Name": "Bacon",
+            "Id": 1059,
+            "Price": 5.01,
+            "Type": "Meat",
+            "Stock": 120,
+            "Brand": "Prime Cuts"
+        },
+        {
+            "Name": "Veggie Patty",
+            "Id": 1060,
+            "Price": 4.5,
+            "Type": "Vegetarian",
+            "Stock": 110,
+            "Brand": "Green Harvest"
+        },
+        {
+            "Name": "Spaghetti",
+            "Id": 1061,
+            "Price": 2.13,
+            "Type": "Grains",
+            "Stock": 180,
+            "Brand": "Italiano"
+        },
+        {
+            "Name": "Pancetta",
+            "Id": 1062,
+            "Price": 7.56,
+            "Type": "Meat",
+            "Stock": 120,
+            "Brand": "Prime Cuts"
+        },
+        {
+            "Name": "Fettuccine",
+            "Id": 1063,
+            "Price": 3.16,
+            "Type": "Grains",
+            "Stock": 150,
+            "Brand": "Italiano"
+        },
+        {
+            "Name": "Heavy Cream",
+            "Id": 1064,
+            "Price": 2.83,
+            "Type": "Dairy",
+            "Stock": 140,
+            "Brand": "Dairyland"
+        },
+        {
+            "Name": "Lasagna Sheets",
+            "Id": 1065,
+            "Price": 5.0,
+            "Type": "Grains",
+            "Stock": 130,
+            "Brand": "Italiano"
+        },
+        {
+            "Name": "Pasta Dough",
+            "Id": 1066,
+            "Price": 3.22,
+            "Type": "Baking",
+            "Stock": 110,
+            "Brand": "Golden Wheat"
+        },
+        {
+            "Name": "Vodka",
+            "Id": 1067,
+            "Price": 8.52,
+            "Type": "Beverage",
+            "Stock": 90,
+            "Brand": "Premium Spirits"
+        },
+        {
+            "Name": "Corn Tortilla",
+            "Id": 1068,
+            "Price": 2.6,
+            "Type": "Grains",
+            "Stock": 180,
+            "Brand": "Mexi-Maize"
+        },
+        {
+            "Name": "Grilled Steak",
+            "Id": 1069,
+            "Price": 5.98,
+            "Type": "Meat",
+            "Stock": 100,
+            "Brand": "Prime Cuts"
+        },
+        {
+            "Name": "Cilantro",
+            "Id": 1070,
+            "Price": 2.52,
+            "Type": "Herbs",
+            "Stock": 170,
+            "Brand": "Spice World"
+        },
+        {
+            "Name": "Pineapple",
+            "Id": 1071,
+            "Price": 3.84,
+            "Type": "Fruit",
+            "Stock": 90,
+            "Brand": "Tropical Harvest"
+        },
+        {
+            "Name": "Fried Fish",
+            "Id": 1072,
+            "Price": 11.55,
+            "Type": "Seafood",
+            "Stock": 80,
+            "Brand": "Ocean Catch"
+        },
+        {
+            "Name": "Cabbage Slaw",
+            "Id": 1073,
+            "Price": 3.79,
+            "Type": "Vegetable",
+            "Stock": 120,
+            "Brand": "Farmers Best"
+        },
+        {
+            "Name": "Slow-Cooked Pork",
+            "Id": 1074,
+            "Price": 7.24,
+            "Type": "Meat",
+            "Stock": 110,
+            "Brand": "Prime Cuts"
+        },
+        {
+            "Name": "Curry Powder",
+            "Id": 1075,
+            "Price": 2.86,
+            "Type": "Spices",
+            "Stock": 140,
+            "Brand": "Spice World"
+        },
+        {
+            "Name": "Coconut Milk",
+            "Id": 1076,
+            "Price": 4.07,
+            "Type": "Condiments",
+            "Stock": 100,
+            "Brand": "Tropical Harvest"
+        },
+        {
+            "Name": "Curry Roux",
+            "Id": 1077,
+            "Price": 6.77,
+            "Type": "Condiments",
+            "Stock": 90,
+            "Brand": "Japanese Delight"
+        },
+        {
+            "Name": "Garam Masala",
+            "Id": 10978,
+            "Price": 4.8,
+            "Type": "Spices",
+            "Stock": 130,
+            "Brand": "Spice World"
+        },
+        {
+            "Name": "Ramen Noodles",
+            "Id": 1079,
+            "Price": 2.47,
+            "Type": "Grains",
+            "Stock": 180,
+            "Brand": "Noodle Masters"
+        },
+        {
+            "Name": "Pork Bone Broth",
+            "Id": 1080,
+            "Price": 9.34,
+            "Type": "Soup",
+            "Stock": 90,
+            "Brand": "Savory Select"
+        },
+        {
+            "Name": "Tofu",
+            "Id": 1081,
+            "Price": 4.39,
+            "Type": "Vegetarian",
+            "Stock": 120,
+            "Brand": "Healthy Choice"
+        },
+        {
+            "Name": "Salt Broth",
+            "Id": 1082,
+            "Price": 6.74,
+            "Type": "Soup",
+            "Stock": 100,
+            "Brand": "Savory Select"
+        },
+        {
+            "Name": "Sushi Rice",
+            "Id": 1083,
+            "Price": 3.5,
+            "Type": "Grains",
+            "Stock": 140,
+            "Brand": "Asian Flavors"
+        },
+        {
+            "Name": "Tuna",
+            "Id": 1084,
+            "Price": 8.79,
+            "Type": "Seafood",
+            "Stock": 90,
+            "Brand": "Ocean Catch"
+        },
+        {
+            "Name": "Spicy Mayo",
+            "Id": 1085,
+            "Price": 2.24,
+            "Type": "Condiments",
+            "Stock": 130,
+            "Brand": "Asian Flavors"
+        },
+        {
+            "Name": "Crab Stick",
+            "Id": 1086,
+            "Price": 6.52,
+            "Type": "Seafood",
+            "Stock": 100,
+            "Brand": "Ocean Catch"
+        },
+        {
+            "Name": "Avocado",
+            "Id": 1087,
+            "Price": 2.51,
+            "Type": "Fruit",
+            "Stock": 150,
+            "Brand": "Tropical Harvest"
+        },
+        {
+            "Name": "Cucumber",
+            "Id": 1088,
+            "Price": 1.48,
+            "Type": "Vegetable",
+            "Stock": 160,
+            "Brand": "Green Valley"
+        },
+        {
+            "Name": "Nori",
+            "Id": 1089,
+            "Price": 5.65,
+            "Type": "Condiments",
+            "Stock": 110,
+            "Brand": "Japanese Delight"
+        },
+        {
+            "Name": "Eel",
+            "Id": 1090,
+            "Price": 9.98,
+            "Type": "Seafood",
+            "Stock": 80,
+            "Brand": "Ocean Catch"
+        },
+        {
+            "Name": "Cream Cheese",
+            "Id": 1091,
+            "Price": 2.55,
+            "Type": "Dairy",
+            "Stock": 120,
+            "Brand": "Cheese Co."
+        },
+        {
+            "Name": "Whole Wheat Bread",
+            "Id": 1092,
+            "Price": 2.43,
+            "Type": "Bakery",
+            "Stock": 200,
+            "Brand": "Healthy Grains"
+        },
+        {
+            "Name": "White Bread",
+            "Id": 1093,
+            "Price": 2.05,
+            "Type": "Bakery",
+            "Stock": 220,
+            "Brand": "Golden Loaf"
+        },
+        {
+            "Name": "Brown Sugar",
+            "Id": 1094,
+            "Price": 3.67,
+            "Type": "Baking",
+            "Stock": 150,
+            "Brand": "Sweet Source"
+        },
+        {
+            "Name": "Baking Powder",
+            "Id": 1095,
+            "Price": 2.21,
+            "Type": "Baking",
+            "Stock": 140,
+            "Brand": "Baker's Best"
+        },
+        {
+            "Name": "Baking Soda",
+            "Id": 1096,
+            "Price": 1.62,
+            "Type": "Baking",
+            "Stock": 160,
+            "Brand": "Pure Essentials"
+        },
+        {
+            "Name": "Yeast",
+            "Id": 1097,
+            "Price": 2.14,
+            "Type": "Baking",
+            "Stock": 130,
+            "Brand": "Rise & Bake"
+        },
+        {
+            "Name": "Vanilla Extract",
+            "Id": 1098,
+            "Price": 7.08,
+            "Type": "Baking",
+            "Stock": 100,
+            "Brand": "Pure Essence"
+        },
+        {
+            "Name": "Chocolate Chips",
+            "Id": 1099,
+            "Price": 6.44,
+            "Type": "Baking",
+            "Stock": 110,
+            "Brand": "Sweet Treats"
+        },
+        {
+            "Name": "Peanut Butter",
+            "Id": 1100,
+            "Price": 6.38,
+            "Type": "Spreads",
+            "Stock": 120,
+            "Brand": "Nutty Delight"
+        },
+        {
+            "Name": "Jelly",
+            "Id": 1101,
+            "Price": 3.18,
+            "Type": "Spreads",
+            "Stock": 130,
+            "Brand": "Fruit Fresh"
+        },
+        {
+            "Name": "Mayonnaise",
+            "Id": 1102,
+            "Price": 5.06,
+            "Type": "Condiments",
+            "Stock": 140,
+            "Brand": "Creamy Select"
+        },
+        {
+            "Name": "Ketchup",
+            "Id": 1103,
+            "Price": 3.23,
+            "Type": "Condiments",
+            "Stock": 160,
+            "Brand": "Tomato Pure"
+        },
+        {
+            "Name": "Mustard",
+            "Id": 1104,
+            "Price": 2.73,
+            "Type": "Condiments",
+            "Stock": 150,
+            "Brand": "Golden Classic"
+        },
+        {
+            "Name": "Pickles",
+            "Id": 1105,
+            "Price": 2.95,
+            "Type": "Condiments",
+            "Stock": 120,
+            "Brand": "Crunchy Harvest"
+        },
+        {
+            "Name": "Relish",
+            "Id": 1106,
+            "Price": 2.33,
+            "Type": "Condiments",
+            "Stock": 130,
+            "Brand": "Tangy Delight"
+        },
+        {
+            "Name": "Cornmeal",
+            "Id": 1107,
+            "Price": 3.36,
+            "Type": "Baking",
+            "Stock": 140,
+            "Brand": "Golden Maize"
+        },
+        {
+            "Name": "Lentil Soup",
+            "Id": 1108,
+            "Price": 6.24,
+            "Type": "Canned Goods",
+            "Stock": 100,
+            "Brand": "Healthy Choice"
+        },
+        {
+            "Name": "Macaroni",
+            "Id": 1109,
+            "Price": 3.79,
+            "Type": "Grains",
+            "Stock": 180,
+            "Brand": "Italiano"
+        },
+        {
+            "Name": "Instant Oatmeal",
+            "Id": 1110,
+            "Price": 3.26,
+            "Type": "Breakfast",
+            "Stock": 120,
+            "Brand": "Healthy Start"
+        },
+        {
+            "Name": "Granola",
+            "Id": 1111,
+            "Price": 6.27,
+            "Type": "Breakfast",
+            "Stock": 140,
+            "Brand": "Crunchy Goodness"
+        },
+        {
+            "Name": "Frozen Mixed Vegetables",
+            "Id": 1112,
+            "Price": 4.83,
+            "Type": "Frozen",
+            "Stock": 110,
+            "Brand": "Nature's Best"
+        },
+        {
+            "Name": "Frozen Berries",
+            "Id": 1113,
+            "Price": 8.61,
+            "Type": "Frozen",
+            "Stock": 100,
+            "Brand": "Berry Fresh"
+        },
+        {
+            "Name": "Frozen Pizza",
+            "Id": 1114,
+            "Price": 7.07,
+            "Type": "Frozen",
+            "Stock": 90,
+            "Brand": "Quick Bite"
+        },
+        {
+            "Name": "Ice Cream",
+            "Id": 1115,
+            "Price": 5.08,
+            "Type": "Frozen",
+            "Stock": 130,
+            "Brand": "Sweet Treats"
+        },
+        {
+            "Name": "Lemon",
+            "Id": 1116,
+            "Price": 0.57,
+            "Type": "Fruit",
+            "Stock": 300,
+            "Brand": "Citrus Fresh"
+        },
+        {
+            "Name": "Lime",
+            "Id": 1117,
+            "Price": 0.89,
+            "Type": "Fruit",
+            "Stock": 320,
+            "Brand": "Citrus Fresh"
+        },
+        {
+            "Name": "Oranges",
+            "Id": 1118,
+            "Price": 1.63,
+            "Type": "Fruit",
+            "Stock": 250,
+            "Brand": "Sun Kissed"
+        },
+        {
+            "Name": "Grapes",
+            "Id": 1119,
+            "Price": 3.38,
+            "Type": "Fruit",
+            "Stock": 180,
+            "Brand": "Vine Harvest"
+        },
+        {
+            "Name": "Strawberries",
+            "Id": 1120,
+            "Price": 5.23,
+            "Type": "Fruit",
+            "Stock": 140,
+            "Brand": "Berry Farm"
+        },
+        {
+            "Name": "Blueberries",
+            "Id": 1121,
+            "Price": 7.1,
+            "Type": "Fruit",
+            "Stock": 120,
+            "Brand": "Berry Farm"
+        },
+        {
+            "Name": "Coconut Water",
+            "Id": 1122,
+            "Price": 3.68,
+            "Type": "Beverage",
+            "Stock": 110,
+            "Brand": "Tropical Hydration"
+        },
+        {
+            "Name": "Green Tea",
+            "Id": 1123,
+            "Price": 4.48,
+            "Type": "Beverage",
+            "Stock": 130,
+            "Brand": "Tea Masters"
+        },
+        {
+            "Name": "Coffee Beans",
+            "Id": 1124,
+            "Price": 9.61,
+            "Type": "Beverage",
+            "Stock": 90,
+            "Brand": "Morning Roast"
+        },
+        {
+            "Name": "Cereal",
+            "Id": 1125,
+            "Price": 5.35,
+            "Type": "Breakfast",
+            "Stock": 160,
+            "Brand": "Morning Crunch"
+        },
+        {
+            "Name": "Soy Milk",
+            "Id": 1126,
+            "Price": 4.9,
+            "Type": "Dairy Alternative",
+            "Stock": 110,
+            "Brand": "Healthy Choice"
+        },
+        {
+            "Name": "Chia Seeds",
+            "Id": 1127,
+            "Price": 5.72,
+            "Type": "Superfoods",
+            "Stock": 100,
+            "Brand": "Organic Power"
+        },
+        {
+            "Name": "Quinoa",
+            "Id": 1128,
+            "Price": 5.25,
+            "Type": "Grains",
+            "Stock": 110,
+            "Brand": "Healthy Harvest"
+        },
+        {
+            "Name": "Sunflower Seeds",
+            "Id": 1129,
+            "Price": 5.15,
+            "Type": "Nuts",
+            "Stock": 150,
+            "Brand": "Crunchy Goodness"
+        },
+        {
+            "Name": "Raisins",
+            "Id": 1130,
+            "Price": 3.09,
+            "Type": "Dried Fruit",
+            "Stock": 120,
+            "Brand": "Sun Harvest"
+        },
+        {
+            "Name": "Cranberries",
+            "Id": 1131,
+            "Price": 3.65,
+            "Type": "Dried Fruit",
+            "Stock": 130,
+            "Brand": "Berry Delight"
+        },
+        {
+            "Name": "Coconut Flakes",
+            "Id": 1132,
+            "Price": 3.18,
+            "Type": "Baking",
+            "Stock": 110,
+            "Brand": "Tropical Taste"
+        },
+        {
+            "Name": "Almond Milk",
+            "Id": 1133,
+            "Price": 6.67,
+            "Type": "Dairy Alternative",
+            "Stock": 100,
+            "Brand": "Nutty Delight"
+        },
+        {
+            "Name": "Swiss Cheese",
+            "Id": 1134,
+            "Price": 2.54,
+            "Type": "Dairy",
+            "Stock": 180,
+            "Brand": "Cheese Co."
+        },
+        {
+            "Name": "Onion Rings",
+            "Id": 1135,
+            "Price": 6.74,
+            "Type": "Frozen",
+            "Stock": 180,
+            "Brand": "Crispy Bites"
+        },
+        {
+            "Name": "Penne",
+            "Id": 1136,
+            "Price": 2.37,
+            "Type": "Grains",
+            "Stock": 200,
+            "Brand": "Italiano"
+        },
+        {
+            "Name": "Marinated Pork",
+            "Id": 1137,
+            "Price": 7.19,
+            "Type": "Meat",
+            "Stock": 150,
+            "Brand": "Prime Cuts"
+        },
+        {
+            "Name": "White Sauce",
+            "Id": 1138,
+            "Price": 3.87,
+            "Type": "Condiments",
+            "Stock": 150,
+            "Brand": "Creamy Delight"
+        },
+        {
+            "Name": "Shredded Beef",
+            "Id": 1139,
+            "Price": 8.96,
+            "Type": "Meat",
+            "Stock": 140,
+            "Brand": "Prime Cuts"
+        },
+        {
+            "Name": "Salsa",
+            "Id": 1140,
+            "Price": 4.19,
+            "Type": "Condiments",
+            "Stock": 160,
+            "Brand": "Fresh Fiesta"
+        },
+        {
+            "Name": "Green Curry Paste",
+            "Id": 1141,
+            "Price": 3.78,
+            "Type": "Condiments",
+            "Stock": 120,
+            "Brand": "Thai Essence"
+        },
+        {
+            "Name": "Lemongrass",
+            "Id": 1142,
+            "Price": 1.97,
+            "Type": "Herbs",
+            "Stock": 140,
+            "Brand": "Fresh Harvest"
+        },
+        {
+            "Name": "Chili Powder",
+            "Id": 1143,
+            "Price": 3.78,
+            "Type": "Spices",
+            "Stock": 150,
+            "Brand": "Spice World"
+        },
+        {
+            "Name": "Soy Sauce Broth",
+            "Id": 1144,
+            "Price": 4.36,
+            "Type": "Condiments",
+            "Stock": 130,
+            "Brand": "Asian Flavors"
+        },
+        {
+            "Name": "Green Onion",
+            "Id": 1145,
+            "Price": 1.71,
+            "Type": "Vegetable",
+            "Stock": 180,
+            "Brand": "Farm Fresh"
+        },
+        {
+            "Name": "Miso Broth",
+            "Id": 1146,
+            "Price": 4.14,
+            "Type": "Condiments",
+            "Stock": 110,
+            "Brand": "Japanese Essence"
+        },
+        {
+            "Name": "Bamboo Shoots",
+            "Id": 1147,
+            "Price": 4.0,
+            "Type": "Vegetable",
+            "Stock": 140,
+            "Brand": "Asian Harvest"
+        },
+        {
+            "Name": "Thick Noodles",
+            "Id": 1148,
+            "Price": 4.76,
+            "Type": "Grains",
+            "Stock": 160,
+            "Brand": "Noodle Masters"
+        },
+        {
+            "Name": "Dipping Broth",
+            "Id": 1149,
+            "Price": 4.84,
+            "Type": "Condiments",
+            "Stock": 100,
+            "Brand": "Japanese Essence"
+        },
+        {
+            "Name": "Chashu Pork",
+            "Id": 1150,
+            "Price": 9.43,
+            "Type": "Meat",
+            "Stock": 130,
+            "Brand": "Prime Cuts"
+        },
+        {
+            "Name": "Sesame Seeds",
+            "Id": 1151,
+            "Price": 3.87,
+            "Type": "Spices",
+            "Stock": 170,
+            "Brand": "Nutty Delights"
+        },
+        {
+            "Name": "Yellowtail",
+            "Id": 1152,
+            "Price": 8.16,
+            "Type": "Seafood",
+            "Stock": 90,
+            "Brand": "Ocean Fresh"
+        }
+    ]},
+    {
+        "Name": "Trader Joes",
+        "Inventory":[
+        {
+            "Name": "Apple",
+            "Id": 1001,
+            "Price": 1.07,
+            "Type": "Fruit",
+            "Stock": 250,
+            "Brand": "Fresh Farms"
+        },
+        {
+            "Name": "Banana",
+            "Id": 1002,
+            "Price": 0.42,
+            "Type": "Fruit",
+            "Stock": 300,
+            "Brand": "Tropical Harvest"
+        },
+        {
+            "Name": "Carrot",
+            "Id": 1003,
+            "Price": 1.13,
+            "Type": "Vegetable",
+            "Stock": 200,
+            "Brand": "Organic Growers"
+        },
+        {
+            "Name": "Broccoli",
+            "Id": 1004,
+            "Price": 2.13,
+            "Type": "Vegetable",
+            "Stock": 150,
+            "Brand": "Green Valley"
+        },
+        {
+            "Name": "Tomato",
+            "Id": 1005,
+            "Price": 2.38,
+            "Type": "Vegetable",
+            "Stock": 220,
+            "Brand": "Sun Fresh"
+        },
+        {
+            "Name": "Onion",
+            "Id": 1006,
+            "Price": 1.75,
+            "Type": "Vegetable",
+            "Stock": 210,
+            "Brand": "Farmers Best"
+        },
+        {
+            "Name": "Garlic",
+            "Id": 1007,
+            "Price": 0.83,
+            "Type": "Vegetable",
+            "Stock": 180,
+            "Brand": "Pure Harvest"
+        },
+        {
+            "Name": "Chicken Breast",
+            "Id": 1008,
+            "Price": 4.82,
+            "Type": "Meat",
+            "Stock": 100,
+            "Brand": "Farm Fresh"
+        },
+        {
+            "Name": "Ground Beef",
+            "Id": 1009,
+            "Price": 7.94,
+            "Type": "Meat",
+            "Stock": 120,
+            "Brand": "Prime Cuts"
+        },
+        {
+            "Name": "Salmon",
+            "Id": 1010,
+            "Price": 10.79,
+            "Type": "Seafood",
+            "Stock": 90,
+            "Brand": "Ocean Catch"
+        },
+        {
+            "Name": "Milk",
+            "Id": 1011,
+            "Price": 4.03,
+            "Type": "Dairy",
+            "Stock": 180,
+            "Brand": "Dairyland"
+        },
+        {
+            "Name": "Cheddar Cheese",
+            "Id": 1012,
+            "Price": 4.88,
+            "Type": "Dairy",
+            "Stock": 140,
+            "Brand": "Cheese Co."
+        },
+        {
+            "Name": "Eggs",
+            "Id": 1013,
+            "Price": 3.13,
+            "Type": "Dairy",
+            "Stock": 220,
+            "Brand": "Golden Egg Farms"
+        },
+        {
+            "Name": "Butter",
+            "Id": 1014,
+            "Price": 2.89,
+            "Type": "Dairy",
+            "Stock": 150,
+            "Brand": "Creamy Delight"
+        },
+        {
+            "Name": "Flour",
+            "Id": 1015,
+            "Price": 3.31,
+            "Type": "Baking",
+            "Stock": 180,
+            "Brand": "Golden Wheat"
+        },
+        {
+            "Name": "Sugar",
+            "Id": 1016,
+            "Price": 3.54,
+            "Type": "Baking",
+            "Stock": 110,
+            "Brand": "Sweet Source"
+        },
+        {
+            "Name": "Salt",
+            "Id": 1017,
+            "Price": 2.11,
+            "Type": "Baking",
+            "Stock": 200,
+            "Brand": "Sea Harvest"
+        },
+        {
+            "Name": "Rice",
+            "Id": 1018,
+            "Price": 7.21,
+            "Type": "Grains",
+            "Stock": 90,
+            "Brand": "Nature's Grain"
+        },
+        {
+            "Name": "Pasta",
+            "Id": 1019,
+            "Price": 2.85,
+            "Type": "Grains",
+            "Stock": 130,
+            "Brand": "Italiano"
+        },
+        {
+            "Name": "Olive Oil",
+            "Id": 1020,
+            "Price": 7.0,
+            "Type": "Condiments",
+            "Stock": 80,
+            "Brand": "Mediterranean Pure"
+        },
+        {
+            "Name": "Vegetable Oil",
+            "Id": 1021,
+            "Price": 5.63,
+            "Type": "Condiments",
+            "Stock": 100,
+            "Brand": "Daily Cooking"
+        },
+        {
+            "Name": "Vinegar",
+            "Id": 1022,
+            "Price": 3.08,
+            "Type": "Condiments",
+            "Stock": 120,
+            "Brand": "Pure Taste"
+        },
+        {
+            "Name": "Soy Sauce",
+            "Id": 1023,
+            "Price": 3.82,
+            "Type": "Condiments",
+            "Stock": 140,
+            "Brand": "Asian Flavors"
+        },
+        {
+            "Name": "Tomato Sauce",
+            "Id": 1024,
+            "Price": 3.76,
+            "Type": "Condiments",
+            "Stock": 150,
+            "Brand": "Homestyle"
+        },
+        {
+            "Name": "Canned Beans",
+            "Id": 1025,
+            "Price": 2.18,
+            "Type": "Canned Goods",
+            "Stock": 200,
+            "Brand": "Healthy Choice"
+        },
+        {
+            "Name": "Canned Corn",
+            "Id": 1026,
+            "Price": 1.77,
+            "Type": "Canned Goods",
+            "Stock": 180,
+            "Brand": "Golden Harvest"
+        },
+        {
+            "Name": "Canned Tuna",
+            "Id": 1027,
+            "Price": 2.26,
+            "Type": "Canned Goods",
+            "Stock": 140,
+            "Brand": "Ocean Fresh"
+        },
+        {
+            "Name": "Chicken Broth",
+            "Id": 1028,
+            "Price": 4.52,
+            "Type": "Canned Goods",
+            "Stock": 130,
+            "Brand": "Savory Select"
+        },
+        {
+            "Name": "Beef Broth",
+            "Id": 1029,
+            "Price": 3.17,
+            "Type": "Canned Goods",
+            "Stock": 120,
+            "Brand": "Savory Select"
+        },
+        {
+            "Name": "Lentils",
+            "Id": 1030,
+            "Price": 2.39,
+            "Type": "Legumes",
+            "Stock": 160,
+            "Brand": "Green Harvest"
+        },
+        {
+            "Name": "Chickpeas",
+            "Id": 1031,
+            "Price": 2.77,
+            "Type": "Legumes",
+            "Stock": 170,
+            "Brand": "Nutri Pulse"
+        },
+        {
+            "Name": "Oats",
+            "Id": 1032,
+            "Price": 2.78,
+            "Type": "Grains",
+            "Stock": 110,
+            "Brand": "Healthy Start"
+        },
+        {
+            "Name": "Almonds",
+            "Id": 1033,
+            "Price": 6.93,
+            "Type": "Nuts",
+            "Stock": 90,
+            "Brand": "Nutty Delight"
+        },
+        {
+            "Name": "Peanuts",
+            "Id": 1034,
+            "Price": 4.26,
+            "Type": "Nuts",
+            "Stock": 100,
+            "Brand": "Crunchy Goodness"
+        },
+        {
+            "Name": "Honey",
+            "Id": 1035,
+            "Price": 6.8,
+            "Type": "Condiments",
+            "Stock": 100,
+            "Brand": "Nature's Gold"
+        },
+        {
+            "Name": "Cinnamon",
+            "Id": 1036,
+            "Price": 2.58,
+            "Type": "Spices",
+            "Stock": 140,
+            "Brand": "Spice World"
+        },
+        {
+            "Name": "Black Pepper",
+            "Id": 1037,
+            "Price": 3.94,
+            "Type": "Spices",
+            "Stock": 150,
+            "Brand": "Spice World"
+        },
+        {
+            "Name": "Cumin",
+            "Id": 1038,
+            "Price": 2.55,
+            "Type": "Spices",
+            "Stock": 160,
+            "Brand": "Spice World"
+        },
+        {
+            "Name": "Paprika",
+            "Id": 1039,
+            "Price": 2.05,
+            "Type": "Spices",
+            "Stock": 170,
+            "Brand": "Spice World"
+        },
+        {
+            "Name": "Basil",
+            "Id": 1040,
+            "Price": 2.82,
+            "Type": "Spices",
+            "Stock": 180,
+            "Brand": "Spice World"
+        },
+        {
+            "Name": "Parsley",
+            "Id": 1041,
+            "Price": 2.92,
+            "Type": "Spices",
+            "Stock": 190,
+            "Brand": "Spice World"
+        },
+        {
+            "Name": "Mushrooms",
+            "Id": 1042,
+            "Price": 3.9,
+            "Type": "Vegetable",
+            "Stock": 140,
+            "Brand": "Forest Fresh"
+        },
+        {
+            "Name": "Bell Peppers",
+            "Id": 1043,
+            "Price": 3.08,
+            "Type": "Vegetable",
+            "Stock": 150,
+            "Brand": "Color Harvest"
+        },
+        {
+            "Name": "Zucchini",
+            "Id": 1044,
+            "Price": 2.09,
+            "Type": "Vegetable",
+            "Stock": 160,
+            "Brand": "Garden Fresh"
+        },
+        {
+            "Name": "Potatoes",
+            "Id": 1045,
+            "Price": 2.81,
+            "Type": "Vegetable",
+            "Stock": 200,
+            "Brand": "Earth Bounty"
+        },
+        {
+            "Name": "Sweet Potatoes",
+            "Id": 1046,
+            "Price": 3.25,
+            "Type": "Vegetable",
+            "Stock": 180,
+            "Brand": "Earth Bounty"
+        },
+        {
+            "Name": "Yogurt",
+            "Id": 1047,
+            "Price": 5.93,
+            "Type": "Dairy",
+            "Stock": 120,
+            "Brand": "Creamy Bliss"
+        },
+        {
+            "Name": "Dough",
+            "Id": 1048,
+            "Price": 3.68,
+            "Type": "Baking",
+            "Stock": 150,
+            "Brand": "Golden Wheat"
+        },
+        {
+            "Name": "Mozzarella Cheese",
+            "Id": 1049,
+            "Price": 3.05,
+            "Type": "Dairy",
+            "Stock": 180,
+            "Brand": "Cheese Co."
+        },
+        {
+            "Name": "Pepperoni",
+            "Id": 1050,
+            "Price": 4.33,
+            "Type": "Meat",
+            "Stock": 120,
+            "Brand": "Prime Cuts"
+        },
+        {
+            "Name": "BBQ Sauce",
+            "Id": 1051,
+            "Price": 3.88,
+            "Type": "Condiments",
+            "Stock": 140,
+            "Brand": "Sweet BBQ"
+        },
+        {
+            "Name": "Chicken",
+            "Id": 1052,
+            "Price": 5.38,
+            "Type": "Meat",
+            "Stock": 130,
+            "Brand": "Farm Fresh"
+        },
+        {
+            "Name": "Red Onion",
+            "Id": 1053,
+            "Price": 1.08,
+            "Type": "Vegetable",
+            "Stock": 150,
+            "Brand": "Farmers Best"
+        },
+        {
+            "Name": "Ricotta Cheese",
+            "Id": 1054,
+            "Price": 5.46,
+            "Type": "Dairy",
+            "Stock": 110,
+            "Brand": "Creamy Delight"
+        },
+        {
+            "Name": "Parmesan Cheese",
+            "Id": 1055,
+            "Price": 4.45,
+            "Type": "Dairy",
+            "Stock": 100,
+            "Brand": "Cheese Co."
+        },
+        {
+            "Name": "Beef Patty",
+            "Id": 1056,
+            "Price": 7.99,
+            "Type": "Meat",
+            "Stock": 140,
+            "Brand": "Prime Cuts"
+        },
+        {
+            "Name": "Burger Bun",
+            "Id": 1057,
+            "Price": 1.97,
+            "Type": "Baking",
+            "Stock": 160,
+            "Brand": "Golden Wheat"
+        },
+        {
+            "Name": "Lettuce",
+            "Id": 1058,
+            "Price": 1.81,
+            "Type": "Vegetable",
+            "Stock": 170,
+            "Brand": "Green Valley"
+        },
+        {
+            "Name": "Bacon",
+            "Id": 1059,
+            "Price": 4.64,
+            "Type": "Meat",
+            "Stock": 120,
+            "Brand": "Prime Cuts"
+        },
+        {
+            "Name": "Veggie Patty",
+            "Id": 1060,
+            "Price": 6.77,
+            "Type": "Vegetarian",
+            "Stock": 110,
+            "Brand": "Green Harvest"
+        },
+        {
+            "Name": "Spaghetti",
+            "Id": 1061,
+            "Price": 3.21,
+            "Type": "Grains",
+            "Stock": 180,
+            "Brand": "Italiano"
+        },
+        {
+            "Name": "Pancetta",
+            "Id": 1062,
+            "Price": 6.8,
+            "Type": "Meat",
+            "Stock": 120,
+            "Brand": "Prime Cuts"
+        },
+        {
+            "Name": "Fettuccine",
+            "Id": 1063,
+            "Price": 3.88,
+            "Type": "Grains",
+            "Stock": 150,
+            "Brand": "Italiano"
+        },
+        {
+            "Name": "Heavy Cream",
+            "Id": 1064,
+            "Price": 3.8,
+            "Type": "Dairy",
+            "Stock": 140,
+            "Brand": "Dairyland"
+        },
+        {
+            "Name": "Lasagna Sheets",
+            "Id": 1065,
+            "Price": 3.1,
+            "Type": "Grains",
+            "Stock": 130,
+            "Brand": "Italiano"
+        },
+        {
+            "Name": "Pasta Dough",
+            "Id": 1066,
+            "Price": 3.71,
+            "Type": "Baking",
+            "Stock": 110,
+            "Brand": "Golden Wheat"
+        },
+        {
+            "Name": "Vodka",
+            "Id": 1067,
+            "Price": 10.81,
+            "Type": "Beverage",
+            "Stock": 90,
+            "Brand": "Premium Spirits"
+        },
+        {
+            "Name": "Corn Tortilla",
+            "Id": 1068,
+            "Price": 1.95,
+            "Type": "Grains",
+            "Stock": 180,
+            "Brand": "Mexi-Maize"
+        },
+        {
+            "Name": "Grilled Steak",
+            "Id": 1069,
+            "Price": 7.75,
+            "Type": "Meat",
+            "Stock": 100,
+            "Brand": "Prime Cuts"
+        },
+        {
+            "Name": "Cilantro",
+            "Id": 1070,
+            "Price": 2.55,
+            "Type": "Herbs",
+            "Stock": 170,
+            "Brand": "Spice World"
+        },
+        {
+            "Name": "Pineapple",
+            "Id": 1071,
+            "Price": 3.09,
+            "Type": "Fruit",
+            "Stock": 90,
+            "Brand": "Tropical Harvest"
+        },
+        {
+            "Name": "Fried Fish",
+            "Id": 1072,
+            "Price": 7.37,
+            "Type": "Seafood",
+            "Stock": 80,
+            "Brand": "Ocean Catch"
+        },
+        {
+            "Name": "Cabbage Slaw",
+            "Id": 1073,
+            "Price": 3.86,
+            "Type": "Vegetable",
+            "Stock": 120,
+            "Brand": "Farmers Best"
+        },
+        {
+            "Name": "Slow-Cooked Pork",
+            "Id": 1074,
+            "Price": 4.98,
+            "Type": "Meat",
+            "Stock": 110,
+            "Brand": "Prime Cuts"
+        },
+        {
+            "Name": "Curry Powder",
+            "Id": 1075,
+            "Price": 2.31,
+            "Type": "Spices",
+            "Stock": 140,
+            "Brand": "Spice World"
+        },
+        {
+            "Name": "Coconut Milk",
+            "Id": 1076,
+            "Price": 5.12,
+            "Type": "Condiments",
+            "Stock": 100,
+            "Brand": "Tropical Harvest"
+        },
+        {
+            "Name": "Curry Roux",
+            "Id": 1077,
+            "Price": 5.64,
+            "Type": "Condiments",
+            "Stock": 90,
+            "Brand": "Japanese Delight"
+        },
+        {
+            "Name": "Garam Masala",
+            "Id": 10978,
+            "Price": 3.81,
+            "Type": "Spices",
+            "Stock": 130,
+            "Brand": "Spice World"
+        },
+        {
+            "Name": "Ramen Noodles",
+            "Id": 1079,
+            "Price": 2.69,
+            "Type": "Grains",
+            "Stock": 180,
+            "Brand": "Noodle Masters"
+        },
+        {
+            "Name": "Pork Bone Broth",
+            "Id": 1080,
+            "Price": 7.65,
+            "Type": "Soup",
+            "Stock": 90,
+            "Brand": "Savory Select"
+        },
+        {
+            "Name": "Tofu",
+            "Id": 1081,
+            "Price": 3.55,
+            "Type": "Vegetarian",
+            "Stock": 120,
+            "Brand": "Healthy Choice"
+        },
+        {
+            "Name": "Salt Broth",
+            "Id": 1082,
+            "Price": 5.4,
+            "Type": "Soup",
+            "Stock": 100,
+            "Brand": "Savory Select"
+        },
+        {
+            "Name": "Sushi Rice",
+            "Id": 1083,
+            "Price": 4.2,
+            "Type": "Grains",
+            "Stock": 140,
+            "Brand": "Asian Flavors"
+        },
+        {
+            "Name": "Tuna",
+            "Id": 1084,
+            "Price": 11.68,
+            "Type": "Seafood",
+            "Stock": 90,
+            "Brand": "Ocean Catch"
+        },
+        {
+            "Name": "Spicy Mayo",
+            "Id": 1085,
+            "Price": 3.17,
+            "Type": "Condiments",
+            "Stock": 130,
+            "Brand": "Asian Flavors"
+        },
+        {
+            "Name": "Crab Stick",
+            "Id": 1086,
+            "Price": 5.83,
+            "Type": "Seafood",
+            "Stock": 100,
+            "Brand": "Ocean Catch"
+        },
+        {
+            "Name": "Avocado",
+            "Id": 1087,
+            "Price": 3.35,
+            "Type": "Fruit",
+            "Stock": 150,
+            "Brand": "Tropical Harvest"
+        },
+        {
+            "Name": "Cucumber",
+            "Id": 1088,
+            "Price": 1.68,
+            "Type": "Vegetable",
+            "Stock": 160,
+            "Brand": "Green Valley"
+        },
+        {
+            "Name": "Nori",
+            "Id": 1089,
+            "Price": 4.17,
+            "Type": "Condiments",
+            "Stock": 110,
+            "Brand": "Japanese Delight"
+        },
+        {
+            "Name": "Eel",
+            "Id": 1090,
+            "Price": 9.08,
+            "Type": "Seafood",
+            "Stock": 80,
+            "Brand": "Ocean Catch"
+        },
+        {
+            "Name": "Cream Cheese",
+            "Id": 1091,
+            "Price": 3.08,
+            "Type": "Dairy",
+            "Stock": 120,
+            "Brand": "Cheese Co."
+        },
+        {
+            "Name": "Whole Wheat Bread",
+            "Id": 1092,
+            "Price": 3.39,
+            "Type": "Bakery",
+            "Stock": 200,
+            "Brand": "Healthy Grains"
+        },
+        {
+            "Name": "White Bread",
+            "Id": 1093,
+            "Price": 1.77,
+            "Type": "Bakery",
+            "Stock": 220,
+            "Brand": "Golden Loaf"
+        },
+        {
+            "Name": "Brown Sugar",
+            "Id": 1094,
+            "Price": 3.57,
+            "Type": "Baking",
+            "Stock": 150,
+            "Brand": "Sweet Source"
+        },
+        {
+            "Name": "Baking Powder",
+            "Id": 1095,
+            "Price": 2.71,
+            "Type": "Baking",
+            "Stock": 140,
+            "Brand": "Baker's Best"
+        },
+        {
+            "Name": "Baking Soda",
+            "Id": 1096,
+            "Price": 2.1,
+            "Type": "Baking",
+            "Stock": 160,
+            "Brand": "Pure Essentials"
+        },
+        {
+            "Name": "Yeast",
+            "Id": 1097,
+            "Price": 2.75,
+            "Type": "Baking",
+            "Stock": 130,
+            "Brand": "Rise & Bake"
+        },
+        {
+            "Name": "Vanilla Extract",
+            "Id": 1098,
+            "Price": 6.19,
+            "Type": "Baking",
+            "Stock": 100,
+            "Brand": "Pure Essence"
+        },
+        {
+            "Name": "Chocolate Chips",
+            "Id": 1099,
+            "Price": 3.65,
+            "Type": "Baking",
+            "Stock": 110,
+            "Brand": "Sweet Treats"
+        },
+        {
+            "Name": "Peanut Butter",
+            "Id": 1100,
+            "Price": 8.38,
+            "Type": "Spreads",
+            "Stock": 120,
+            "Brand": "Nutty Delight"
+        },
+        {
+            "Name": "Jelly",
+            "Id": 1101,
+            "Price": 3.23,
+            "Type": "Spreads",
+            "Stock": 130,
+            "Brand": "Fruit Fresh"
+        },
+        {
+            "Name": "Mayonnaise",
+            "Id": 1102,
+            "Price": 4.48,
+            "Type": "Condiments",
+            "Stock": 140,
+            "Brand": "Creamy Select"
+        },
+        {
+            "Name": "Ketchup",
+            "Id": 1103,
+            "Price": 2.38,
+            "Type": "Condiments",
+            "Stock": 160,
+            "Brand": "Tomato Pure"
+        },
+        {
+            "Name": "Mustard",
+            "Id": 1104,
+            "Price": 2.67,
+            "Type": "Condiments",
+            "Stock": 150,
+            "Brand": "Golden Classic"
+        },
+        {
+            "Name": "Pickles",
+            "Id": 1105,
+            "Price": 4.33,
+            "Type": "Condiments",
+            "Stock": 120,
+            "Brand": "Crunchy Harvest"
+        },
+        {
+            "Name": "Relish",
+            "Id": 1106,
+            "Price": 2.92,
+            "Type": "Condiments",
+            "Stock": 130,
+            "Brand": "Tangy Delight"
+        },
+        {
+            "Name": "Cornmeal",
+            "Id": 1107,
+            "Price": 2.55,
+            "Type": "Baking",
+            "Stock": 140,
+            "Brand": "Golden Maize"
+        },
+        {
+            "Name": "Lentil Soup",
+            "Id": 1108,
+            "Price": 4.54,
+            "Type": "Canned Goods",
+            "Stock": 100,
+            "Brand": "Healthy Choice"
+        },
+        {
+            "Name": "Macaroni",
+            "Id": 1109,
+            "Price": 3.22,
+            "Type": "Grains",
+            "Stock": 180,
+            "Brand": "Italiano"
+        },
+        {
+            "Name": "Instant Oatmeal",
+            "Id": 1110,
+            "Price": 3.94,
+            "Type": "Breakfast",
+            "Stock": 120,
+            "Brand": "Healthy Start"
+        },
+        {
+            "Name": "Granola",
+            "Id": 1111,
+            "Price": 3.67,
+            "Type": "Breakfast",
+            "Stock": 140,
+            "Brand": "Crunchy Goodness"
+        },
+        {
+            "Name": "Frozen Mixed Vegetables",
+            "Id": 1112,
+            "Price": 5.47,
+            "Type": "Frozen",
+            "Stock": 110,
+            "Brand": "Nature's Best"
+        },
+        {
+            "Name": "Frozen Berries",
+            "Id": 1113,
+            "Price": 5.42,
+            "Type": "Frozen",
+            "Stock": 100,
+            "Brand": "Berry Fresh"
+        },
+        {
+            "Name": "Frozen Pizza",
+            "Id": 1114,
+            "Price": 8.17,
+            "Type": "Frozen",
+            "Stock": 90,
+            "Brand": "Quick Bite"
+        },
+        {
+            "Name": "Ice Cream",
+            "Id": 1115,
+            "Price": 4.36,
+            "Type": "Frozen",
+            "Stock": 130,
+            "Brand": "Sweet Treats"
+        },
+        {
+            "Name": "Lemon",
+            "Id": 1116,
+            "Price": 0.8,
+            "Type": "Fruit",
+            "Stock": 300,
+            "Brand": "Citrus Fresh"
+        },
+        {
+            "Name": "Lime",
+            "Id": 1117,
+            "Price": 0.88,
+            "Type": "Fruit",
+            "Stock": 320,
+            "Brand": "Citrus Fresh"
+        },
+        {
+            "Name": "Oranges",
+            "Id": 1118,
+            "Price": 1.25,
+            "Type": "Fruit",
+            "Stock": 250,
+            "Brand": "Sun Kissed"
+        },
+        {
+            "Name": "Grapes",
+            "Id": 1119,
+            "Price": 2.45,
+            "Type": "Fruit",
+            "Stock": 180,
+            "Brand": "Vine Harvest"
+        },
+        {
+            "Name": "Strawberries",
+            "Id": 1120,
+            "Price": 5.21,
+            "Type": "Fruit",
+            "Stock": 140,
+            "Brand": "Berry Farm"
+        },
+        {
+            "Name": "Blueberries",
+            "Id": 1121,
+            "Price": 7.03,
+            "Type": "Fruit",
+            "Stock": 120,
+            "Brand": "Berry Farm"
+        },
+        {
+            "Name": "Coconut Water",
+            "Id": 1122,
+            "Price": 3.79,
+            "Type": "Beverage",
+            "Stock": 110,
+            "Brand": "Tropical Hydration"
+        },
+        {
+            "Name": "Green Tea",
+            "Id": 1123,
+            "Price": 4.68,
+            "Type": "Beverage",
+            "Stock": 130,
+            "Brand": "Tea Masters"
+        },
+        {
+            "Name": "Coffee Beans",
+            "Id": 1124,
+            "Price": 6.45,
+            "Type": "Beverage",
+            "Stock": 90,
+            "Brand": "Morning Roast"
+        },
+        {
+            "Name": "Cereal",
+            "Id": 1125,
+            "Price": 4.19,
+            "Type": "Breakfast",
+            "Stock": 160,
+            "Brand": "Morning Crunch"
+        },
+        {
+            "Name": "Soy Milk",
+            "Id": 1126,
+            "Price": 3.97,
+            "Type": "Dairy Alternative",
+            "Stock": 110,
+            "Brand": "Healthy Choice"
+        },
+        {
+            "Name": "Chia Seeds",
+            "Id": 1127,
+            "Price": 5.64,
+            "Type": "Superfoods",
+            "Stock": 100,
+            "Brand": "Organic Power"
+        },
+        {
+            "Name": "Quinoa",
+            "Id": 1128,
+            "Price": 7.14,
+            "Type": "Grains",
+            "Stock": 110,
+            "Brand": "Healthy Harvest"
+        },
+        {
+            "Name": "Sunflower Seeds",
+            "Id": 1129,
+            "Price": 3.45,
+            "Type": "Nuts",
+            "Stock": 150,
+            "Brand": "Crunchy Goodness"
+        },
+        {
+            "Name": "Raisins",
+            "Id": 1130,
+            "Price": 5.55,
+            "Type": "Dried Fruit",
+            "Stock": 120,
+            "Brand": "Sun Harvest"
+        },
+        {
+            "Name": "Cranberries",
+            "Id": 1131,
+            "Price": 3.23,
+            "Type": "Dried Fruit",
+            "Stock": 130,
+            "Brand": "Berry Delight"
+        },
+        {
+            "Name": "Coconut Flakes",
+            "Id": 1132,
+            "Price": 4.14,
+            "Type": "Baking",
+            "Stock": 110,
+            "Brand": "Tropical Taste"
+        },
+        {
+            "Name": "Almond Milk",
+            "Id": 1133,
+            "Price": 7.3,
+            "Type": "Dairy Alternative",
+            "Stock": 100,
+            "Brand": "Nutty Delight"
+        },
+        {
+            "Name": "Swiss Cheese",
+            "Id": 1134,
+            "Price": 3.51,
+            "Type": "Dairy",
+            "Stock": 180,
+            "Brand": "Cheese Co."
+        },
+        {
+            "Name": "Onion Rings",
+            "Id": 1135,
+            "Price": 4.16,
+            "Type": "Frozen",
+            "Stock": 180,
+            "Brand": "Crispy Bites"
+        },
+        {
+            "Name": "Penne",
+            "Id": 1136,
+            "Price": 3.75,
+            "Type": "Grains",
+            "Stock": 200,
+            "Brand": "Italiano"
+        },
+        {
+            "Name": "Marinated Pork",
+            "Id": 1137,
+            "Price": 6.03,
+            "Type": "Meat",
+            "Stock": 150,
+            "Brand": "Prime Cuts"
+        },
+        {
+            "Name": "White Sauce",
+            "Id": 1138,
+            "Price": 3.06,
+            "Type": "Condiments",
+            "Stock": 150,
+            "Brand": "Creamy Delight"
+        },
+        {
+            "Name": "Shredded Beef",
+            "Id": 1139,
+            "Price": 7.07,
+            "Type": "Meat",
+            "Stock": 140,
+            "Brand": "Prime Cuts"
+        },
+        {
+            "Name": "Salsa",
+            "Id": 1140,
+            "Price": 3.01,
+            "Type": "Condiments",
+            "Stock": 160,
+            "Brand": "Fresh Fiesta"
+        },
+        {
+            "Name": "Green Curry Paste",
+            "Id": 1141,
+            "Price": 6.47,
+            "Type": "Condiments",
+            "Stock": 120,
+            "Brand": "Thai Essence"
+        },
+        {
+            "Name": "Lemongrass",
+            "Id": 1142,
+            "Price": 2.29,
+            "Type": "Herbs",
+            "Stock": 140,
+            "Brand": "Fresh Harvest"
+        },
+        {
+            "Name": "Chili Powder",
+            "Id": 1143,
+            "Price": 3.58,
+            "Type": "Spices",
+            "Stock": 150,
+            "Brand": "Spice World"
+        },
+        {
+            "Name": "Soy Sauce Broth",
+            "Id": 1144,
+            "Price": 4.96,
+            "Type": "Condiments",
+            "Stock": 130,
+            "Brand": "Asian Flavors"
+        },
+        {
+            "Name": "Green Onion",
+            "Id": 1145,
+            "Price": 1.58,
+            "Type": "Vegetable",
+            "Stock": 180,
+            "Brand": "Farm Fresh"
+        },
+        {
+            "Name": "Miso Broth",
+            "Id": 1146,
+            "Price": 5.01,
+            "Type": "Condiments",
+            "Stock": 110,
+            "Brand": "Japanese Essence"
+        },
+        {
+            "Name": "Bamboo Shoots",
+            "Id": 1147,
+            "Price": 2.95,
+            "Type": "Vegetable",
+            "Stock": 140,
+            "Brand": "Asian Harvest"
+        },
+        {
+            "Name": "Thick Noodles",
+            "Id": 1148,
+            "Price": 3.53,
+            "Type": "Grains",
+            "Stock": 160,
+            "Brand": "Noodle Masters"
+        },
+        {
+            "Name": "Dipping Broth",
+            "Id": 1149,
+            "Price": 6.24,
+            "Type": "Condiments",
+            "Stock": 100,
+            "Brand": "Japanese Essence"
+        },
+        {
+            "Name": "Chashu Pork",
+            "Id": 1150,
+            "Price": 8.4,
+            "Type": "Meat",
+            "Stock": 130,
+            "Brand": "Prime Cuts"
+        },
+        {
+            "Name": "Sesame Seeds",
+            "Id": 1151,
+            "Price": 2.9,
+            "Type": "Spices",
+            "Stock": 170,
+            "Brand": "Nutty Delights"
+        },
+        {
+            "Name": "Yellowtail",
+            "Id": 1152,
+            "Price": 10.7,
+            "Type": "Seafood",
+            "Stock": 90,
+            "Brand": "Ocean Fresh"
+        }
+    ]}
+]

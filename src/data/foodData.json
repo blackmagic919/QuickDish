@@ -1,0 +1,110 @@
+{
+    "items": [
+      {
+        "logo": "burger_logo.png",
+        "name": "Burger",
+        "foods": [
+          {
+            "type": "Cheeseburger",
+            "ingredients": [
+              {"name": "Beef Patty", "price": 3.00},
+              {"name": "Cheese", "price": 0.50},
+              {"name": "Lettuce", "price": 0.30},
+              {"name": "Tomato", "price": 0.40},
+              {"name": "Onions", "price": 0.20},
+              {"name": "Pickles", "price": 0.25},
+              {"name": "Bun", "price": 1.00}
+            ]
+          },
+          {
+            "type": "Veggie Burger",
+            "ingredients": [
+              {"name": "Veggie Patty", "price": 2.50},
+              {"name": "Lettuce", "price": 0.30},
+              {"name": "Tomato", "price": 0.40},
+              {"name": "Onions", "price": 0.20},
+              {"name": "Pickles", "price": 0.25},
+              {"name": "Bun", "price": 1.00}
+            ]
+          }
+        ]
+      },
+      {
+        "logo": "pasta_logo.png",
+        "name": "Pasta",
+        "foods": [
+          {
+            "type": "Spaghetti Bolognese",
+            "ingredients": [
+              {"name": "Spaghetti", "price": 2.00},
+              {"name": "Ground Beef", "price": 4.00},
+              {"name": "Tomato Sauce", "price": 1.50},
+              {"name": "Parmesan", "price": 0.75},
+              {"name": "Basil", "price": 0.20}
+            ]
+          },
+          {
+            "type": "Penne Alfredo",
+            "ingredients": [
+              {"name": "Penne Pasta", "price": 2.00},
+              {"name": "Alfredo Sauce", "price": 2.50},
+              {"name": "Parmesan", "price": 0.75},
+              {"name": "Chicken", "price": 3.50}
+            ]
+          }
+        ]
+      },
+      {
+        "logo": "sushi_logo.png",
+        "name": "Sushi",
+        "foods": [
+          {
+            "type": "California Roll",
+            "ingredients": [
+              {"name": "Rice", "price": 1.00},
+              {"name": "Nori", "price": 0.75},
+              {"name": "Crab Meat", "price": 3.00},
+              {"name": "Avocado", "price": 1.50},
+              {"name": "Cucumber", "price": 0.50}
+            ]
+          },
+          {
+            "type": "Spicy Tuna Roll",
+            "ingredients": [
+              {"name": "Rice", "price": 1.00},
+              {"name": "Nori", "price": 0.75},
+              {"name": "Spicy Tuna", "price": 3.50},
+              {"name": "Avocado", "price": 1.50}
+            ]
+          }
+        ]
+      },
+      {
+        "logo": "salad_logo.png",
+        "name": "Salad",
+        "foods": [
+          {
+            "type": "Caesar Salad",
+            "ingredients": [
+              {"name": "Romaine Lettuce", "price": 1.50},
+              {"name": "Croutons", "price": 0.75},
+              {"name": "Parmesan", "price": 0.75},
+              {"name": "Caesar Dressing", "price": 1.25}
+            ]
+          },
+          {
+            "type": "Greek Salad",
+            "ingredients": [
+              {"name": "Lettuce", "price": 1.50},
+              {"name": "Feta Cheese", "price": 2.00},
+              {"name": "Olives", "price": 1.50},
+              {"name": "Tomatoes", "price": 1.00},
+              {"name": "Cucumber", "price": 0.75},
+              {"name": "Onion", "price": 0.50}
+            ]
+          }
+        ]
+      }
+    ]
+  }
+  

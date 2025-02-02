@@ -1,0 +1,45 @@
+{   
+    "Categories" : [
+        {
+            "Name" : "Pizza",
+            "ImgUrl" : "/imgs/computer.jpg",
+            "Variants": ["Cheese Pizza", "Pepperoni Pizza", "Margherita Pizza", "BBQ Chicken Pizza", "White Pizza"]
+        },
+        
+        {
+            "Name" : "Burger",
+            "ImgUrl" : "/imgs/computer.jpg",
+            "Variants": ["Cheese Burger", "Mushroom Swiss Burger", "Bacon Burger", "BBQ Burger", "Veggie Burger"]
+        },
+        
+        {
+            "Name" : "Pasta",
+            "ImgUrl" : "/imgs/computer.jpg",
+            "Variants": ["Spaghetti Carbonara Pasta", "Fettuccine Alfredo Pasta", "Lasagna Pasta", "Cheese Raviolli Pasta", "Penne alla Vodka Pasta"]
+        },
+
+        {
+            "Name" : "Taco",
+            "ImgUrl" : "/imgs/computer.jpg",
+            "Variants": ["Carne Asada Taco", "Al Pastor Taco", "Fish Taco", "Barbacoa Taco", "Carnitas Taco"]
+        },
+
+        {
+            "Name" : "Curry",
+            "ImgUrl" : "/imgs/computer.jpg",
+            "Variants": ["Butter Chicken Curry", "Thai Green Curry", "Japanese Curry", "Vindaloo Curry", "Chicken Tikka Masala Curry"]
+        },
+
+        {
+            "Name" : "Ramen",
+            "ImgUrl" : "/imgs/computer.jpg",
+            "Variants": ["Shoyu Ramen", "Tonkotsu Ramen", "Miso Ramen", "Shio Ramen", "Tsukemen Ramen"]
+        },
+
+        {
+            "Name" : "Sushi",
+            "ImgUrl" : "/imgs/computer.jpg",
+            "Variants": ["Spicy Tuna Roll Sushi", "California Roll Sushi", "Dragon Roll Sushi", "Philadelphia Roll Sushi", "Rainbow Roll Sushi"]
+        }
+    ]
+}
