@@ -19,14 +19,21 @@ export interface MealCategory {
 }
 
 export function Store() {
-  const location = useLocation();
-  const searchQuery = location.state?.searchQuery?.toLowerCase() || "";
+  // const location = useLocation();
+  // const searchQuery = location.state?.searchQuery?.toLowerCase() || "";
   const [isOpen, setIsOpen] = React.useState<string>("");
   const [store, selectStore] = React.useState<string>(storeInfo[0].Name);
+
   const togglePopup = (name : string) => {
     if(isOpen === name) setIsOpen("");
     else setIsOpen(name);
   };
+  /*
+  const filteredRecipes = recipes.filter((recipe) =>
+    recipe.Name.toLowerCase().includes(searchQuery) ||
+    recipe.Category.toLowerCase().includes(searchQuery) ||
+    recipe.Ingredients.some((ingredient) => ingredient.toLowerCase().includes(searchQuery))
+  );*/
   
   return (
       <div>
@@ -65,7 +72,7 @@ export function Store() {
           ))}
           
         </Select>
-      </Stack>
+      </Stack>      
       <Row md={3} xs={1} lg={3} className="g-3">
   {mealItems.Categories.map((meal: MealCategory) => (
     <Col key={meal.Name}>
@@ -129,5 +136,5 @@ export function Store() {
   ))}
 </Row>
 </div>
-  )
+  );
 }
