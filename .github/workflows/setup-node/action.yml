@@ -19,7 +19,4 @@ runs:
     - name: Install dependencies
       shell: bash
       if: steps.cache_dependencies.outputs.cache-hit != 'true'
-      run: npm install
-    
-    - name: Install hugeIcons
-      run: npm install hugeicons-react
+      run: npm install; npm install hugeicons-react
