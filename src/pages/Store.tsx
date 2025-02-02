@@ -29,7 +29,7 @@ export function Store() {
     else setIsOpen(name);
   };
   /*
-  const filteredRecipes = recipes.filter((recipe) =>
+    const filteredRecipes = recipes.filter((recipe) =>
     recipe.Name.toLowerCase().includes(searchQuery) ||
     recipe.Category.toLowerCase().includes(searchQuery) ||
     recipe.Ingredients.some((ingredient) => ingredient.toLowerCase().includes(searchQuery))
